@@ -31,5 +31,5 @@ candidate objects have the same structure as the other mayor's election objects
 #print(gettwo)
 
 for productId in gettwo['current']['candidates']:
-    print(productId['name'])
+    print(productId['name'], end=' = ')
     print(productId['votes'])

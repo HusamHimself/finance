@@ -32,4 +32,4 @@ candidate objects have the same structure as the other mayor's election objects
 
 for productId in gettwo['current']['candidates']:
     print(productId['name'], end=' = ')
-    print(productId['votes'])
+    print(f'{productId['votes'] :,}')

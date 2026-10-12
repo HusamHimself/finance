@@ -28,4 +28,8 @@ then inside that we get election in which we get the election that put them in p
 then we get current which is about the current election that is happening which has year and candidates
 candidate objects have the same structure as the other mayor's election objects
 """
-print(gettwo)
+#print(gettwo)
+
+for productId in gettwo['current']['candidates']:
+    print(productId['name'])
+    print(productId['votes'])

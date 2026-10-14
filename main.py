@@ -55,3 +55,7 @@ I'll start out by listing all bazaar tradable items with their 'internal names' 
 then I'll also add all auction housable items and then through that we will construct the mega data set that will have each item
 tied up to the price of another with crafting.
 """
+
+"""
+process news fast as a feature with LLMs lol
+"""

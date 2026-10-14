@@ -1,7 +1,7 @@
 import requests
 
 get = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
-# print(get['products']['ENCHANTED_DIAMOND']['quick_status'])
+print(get['products']['ENCHANTED_DIAMOND']['quick_status'])
 
 """
 The data structure is pretty simple.
@@ -30,6 +30,18 @@ candidate objects have the same structure as the other mayor's election objects
 """
 #print(gettwo)
 
-for productId in gettwo['current']['candidates']:
-    print(productId['name'], end=' = ')
-    print(f'{productId['votes'] :,}')
+# for productId in gettwo['current']['candidates']:
+#     print(productId['name'], end=' = ')
+#     print(f'{productId['votes'] :,}')
+
+getthree = requests.get('https://api.hypixel.net/resources/skyblock/items').json()
+"""
+New form of data for all the items in skyblock and info about them
+this will probably act as some sort of verifier for the general program.
+The actual data assembly will be off of NEU and that will be it.
+for every item we will declare a class, and inside of that class we can write about how they are tradable or soulbound
+and if they are tradable are they bazaarable or auctionable.
+Inside NEU we also get a unique data structure for displaying if items are craftable and how they are sourced in general.
+there is also a very unique way to see how items get upgraded with essense.
+"""
+print(getthree)

@@ -7,9 +7,7 @@ list_of_all_items = []
 dict_of_all_items = {}
 
 for i in ITEM_API['items']:
-    list_of_all_items.append(i['id'])
+    dict_of_all_items[i['name']] = i['id']
 
-dict_of_all_items['internal_name'] = list_of_all_items
-
-with open('all_items.json', 'w')as f:
+with open('all_name_vs_id', 'w')as f:
     json.dump(dict_of_all_items, f, indent=2)

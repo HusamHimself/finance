@@ -1,7 +1,7 @@
 import requests
 
-BAZAAR_API = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
-print(BAZAAR_API['products']['ENCHANTED_DIAMOND']['quick_status'])
+#BAZAAR_API = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
+#print(BAZAAR_API['products']['ENCHANTED_DIAMOND']['quick_status'])
 
 """
 The data structure is pretty simple.
@@ -18,7 +18,7 @@ with a quick status part that also has productId with sell price sellvolume sell
 #     if n == 2:
 #         break
 
-ELECTION_API = requests.get('https://api.hypixel.net/resources/skyblock/election').json()
+#ELECTION_API = requests.get('https://api.hypixel.net/resources/skyblock/election').json()
 """
 The data structure is also pretty simple
 at the root we get the basic stuff of last updated, mayor, current, and success.
@@ -44,9 +44,8 @@ and if they are tradable are they bazaarable or auctionable.
 Inside NEU we also get a unique data structure for displaying if items are craftable and how they are sourced in general.
 there is also a very unique way to see how items get upgraded with essense.
 """
-print(ITEM_API)
 
-AUCTION_API = requests.get('https://api.hypixel.net/skyblock/auctions').json()
+#AUCTION_API = requests.get('https://api.hypixel.net/skyblock/auctions').json()
 
 """
 Now we have reached the point in which we decide to sort out the crafting profitability system

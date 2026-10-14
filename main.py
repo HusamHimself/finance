@@ -1,7 +1,7 @@
 import requests
 
-get = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
-print(get['products']['ENCHANTED_DIAMOND']['quick_status'])
+BAZAAR_API = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
+print(BAZAAR_API['products']['ENCHANTED_DIAMOND']['quick_status'])
 
 """
 The data structure is pretty simple.
@@ -12,13 +12,13 @@ inside a product's name is the product id with a sell summary and buy summary fo
 with a quick status part that also has productId with sell price sellvolume sellmovingweek wellorders and the same thing for buy
 """
 # n = 0
-# for productId, product in get['products'].items():
+# for productId, product in BAZAAR_API['products'].items():
 #     print(product)
 #     n += 1
 #     if n == 2:
 #         break
 
-gettwo = requests.get('https://api.hypixel.net/resources/skyblock/election').json()
+ELECTION_API = requests.get('https://api.hypixel.net/resources/skyblock/election').json()
 """
 The data structure is also pretty simple
 at the root we get the basic stuff of last updated, mayor, current, and success.
@@ -28,13 +28,13 @@ then inside that we get election in which we get the election that put them in p
 then we get current which is about the current election that is happening which has year and candidates
 candidate objects have the same structure as the other mayor's election objects
 """
-#print(gettwo)
+#print(ELECTION_API)
 
-# for productId in gettwo['current']['candidates']:
+# for productId in ELECTION_API['current']['candidates']:
 #     print(productId['name'], end=' = ')
 #     print(f'{productId['votes'] :,}')
 
-getthree = requests.get('https://api.hypixel.net/resources/skyblock/items').json()
+ITEM_API = requests.get('https://api.hypixel.net/resources/skyblock/items').json()
 """
 New form of data for all the items in skyblock and info about them
 this will probably act as some sort of verifier for the general program.
@@ -44,4 +44,6 @@ and if they are tradable are they bazaarable or auctionable.
 Inside NEU we also get a unique data structure for displaying if items are craftable and how they are sourced in general.
 there is also a very unique way to see how items get upgraded with essense.
 """
-print(getthree)
+print(ITEM_API)
+
+AUCTION_API = requests.get('https://api.hypixel.net/skyblock/auctions').json()

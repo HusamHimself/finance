@@ -47,3 +47,11 @@ there is also a very unique way to see how items get upgraded with essense.
 print(ITEM_API)
 
 AUCTION_API = requests.get('https://api.hypixel.net/skyblock/auctions').json()
+
+"""
+Now we have reached the point in which we decide to sort out the crafting profitability system
+which can be coin wise or margin wise but that is a topic for later discussion.
+I'll start out by listing all bazaar tradable items with their 'internal names' as the devs behind NEU would put them.
+then I'll also add all auction housable items and then through that we will construct the mega data set that will have each item
+tied up to the price of another with crafting.
+"""

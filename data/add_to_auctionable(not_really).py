@@ -17,7 +17,7 @@ for i in range(0, total_pages_to_loop_over):
     try:
         CURRENT_AUCTION_PAGE = requests.get(f'https://api.hypixel.net/skyblock/auctions?page={i}').json()
     except Exception:
-        time.sleep(10)
+        time.sleep(1)
         try:   
             CURRENT_AUCTION_PAGE = requests.get(f'https://api.hypixel.net/skyblock/auctions?page={i}').json()
         except Exception:
@@ -30,7 +30,7 @@ for i in range(0, total_pages_to_loop_over):
         auctioned.add(item_id)
         print(f'index {z}: {item_id} with the rarity of {item['tier']}')
         z+=1
-    time.sleep(5)
+    time.sleep(0.5)
 
 with open('data/auctioned.json', 'w')as f:
     json.dump({'internal_name': list(auctioned)}, f, indent=2)

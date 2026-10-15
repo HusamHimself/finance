@@ -1,0 +1,48 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Titanium Tesseract",
+  "nbttag": "{ExtraAttributes:{id:\"TITANIUM_TESSERACT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/titanium_tesseract\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Dimensional §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Mining Speed\",9:\" §3☯ Mining Wisdom\",10:\"\",11:\"§9Dimensional Bonus\",12:\"§aTitanium §7drops §2+10 ᠅ Mithril Powder\",13:\"§7when mined.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 20§c.\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Titanium Tesseract\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Dimensional §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Speed",
+    " §3☯ Mining Wisdom",
+    "",
+    "§9Dimensional Bonus",
+    "§aTitanium §7drops §2+10 ᠅ Mithril Powder",
+    "§7when mined.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 20§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "TITANIUM_TESSERACT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 3",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Titanium_Tesseract"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "ENCHANTED_LAPIS_LAZULI:16.0",
+        "REFINED_TITANIUM:1.0"
+      ],
+      "count": 1.0,
+      "overrideOutputId": "TITANIUM_TESSERACT",
+      "duration": 21600
+    }
+  ]
+}

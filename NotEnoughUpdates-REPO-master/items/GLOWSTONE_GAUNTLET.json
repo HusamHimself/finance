@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Glowstone Gauntlet",
+  "nbttag": "{ExtraAttributes:{id:\"GLOWSTONE_GAUNTLET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/glowstone_gauntlet\",display:{Lore:[0:\"§7Intelligence: §b+10\",1:\"§7Mining Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aCombat Skill 22§c.\",7:\"§9§lRARE GLOVES\"],Name:\"§9Glowstone Gauntlet\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Intelligence: §b+10",
+    "§7Mining Fortune: §6+5",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§9§lRARE GLOVES"
+  ],
+  "internalname": "GLOWSTONE_GAUNTLET",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Glowstone Dust IV",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Glowstone_Gauntlet"
+  ],
+  "recipes": [
+    {
+      "A1": "ENCHANTED_LEATHER:3",
+      "A2": "ENCHANTED_LEATHER:3",
+      "A3": "ENCHANTED_LEATHER:3",
+      "B1": "ENCHANTED_GLOWSTONE_DUST:2",
+      "B2": "ENCHANTED_GLOWSTONE_DUST:2",
+      "B3": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C1": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C2": "ENCHANTED_GLOWSTONE_DUST:2",
+      "C3": "ENCHANTED_GLOWSTONE_DUST:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GLOWSTONE_GAUNTLET"
+    }
+  ]
+}

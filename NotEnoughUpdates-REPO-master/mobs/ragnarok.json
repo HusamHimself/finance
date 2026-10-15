@@ -1,0 +1,21 @@
+{
+  "entity": "Horse",
+  "entitytype": "minecraft:skeleton_horse",
+  "modifiers": [
+    {
+      "type": "horse",
+      "kind": "skeleton"
+    },
+    {  
+      "type": "riding",
+      "entity": "Player",
+      "modifiers": [
+        {
+          "type": "playerdata",
+          "skin": "neurepo:mobs/ragnarok.png",
+          "parts": true
+        }
+      ]
+    }  
+  ]
+}

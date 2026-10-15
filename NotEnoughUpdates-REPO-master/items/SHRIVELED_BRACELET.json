@@ -1,0 +1,44 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Shriveled Bracelet",
+  "nbttag": "{ExtraAttributes:{id:\"SHRIVELED_BRACELET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/combat_1/shriveled_bracelet\",display:{Lore:[0:\"§7Strength: §c+10\",1:\"§7Crit Damage: §9+15%\",2:\"\",3:\"§7Grants §3+5☯ Combat Wisdom§7 and §b+10\",4:\"§bMagic Find§7 on §4 Arthropod§7 mobs.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4☠ §cRequires §5Spider Slayer 7§c.\",10:\"§5§lEPIC BRACELET\"],Name:\"§5Shriveled Bracelet\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Strength: §c+10",
+    "§7Crit Damage: §9+15%",
+    "",
+    "§7Grants §3+5☯ Combat Wisdom§7 and §b+10",
+    "§bMagic Find§7 on §4 Arthropod§7 mobs.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4☠ §cRequires §5Spider Slayer 7§c.",
+    "§5§lEPIC BRACELET"
+  ],
+  "internalname": "SHRIVELED_BRACELET",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shriveled_Bracelet"
+  ],
+  "slayer_req": "SPIDER_7",
+  "recipes": [
+    {
+      "A1": "SOUL_STRING:64",
+      "A2": "",
+      "A3": "SOUL_STRING:64",
+      "B1": "TARANTULA_SILK:32",
+      "B2": "",
+      "B3": "TARANTULA_SILK:32",
+      "C1": "",
+      "C2": "SHRIVELED_WASP:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHRIVELED_BRACELET"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Gillsplash Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"GILLSPLASH_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/fishing_equipment/gillsplash_cloak\",display:{Lore:[0:\"§7Health: §c+25\",1:\"§7Health Regen: §c+2\",2:\"§7Fishing Speed: §b+14\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§6§lLEGENDARY CLOAK\"],Name:\"§6Gillsplash Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+25",
+    "§7Health Regen: §c+2",
+    "§7Fishing Speed: §b+14",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY CLOAK"
+  ],
+  "internalname": "GILLSPLASH_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Gillsplash_Cloak"
+  ],
+  "recipe": {
+    "A1": "MAGMA_FISH_DIAMOND:1",
+    "A2": "FINWAVE_CLOAK:1",
+    "A3": "MAGMA_FISH_DIAMOND:1",
+    "B1": "LAVA_SHELL:1",
+    "B2": "",
+    "B3": "LAVA_SHELL:1",
+    "C1": "LAVA_SHELL:1",
+    "C2": "",
+    "C3": "LAVA_SHELL:1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/glacite_caver.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "BOW",
+      "helmet": "GLACITE_HELMET"
+    }
+  ]
+}

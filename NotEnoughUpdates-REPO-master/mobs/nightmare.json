@@ -1,0 +1,10 @@
+{
+  "entity": "Horse",
+  "entitytype": "minecraft:zombie_horse",
+  "modifiers": [
+    {
+      "type": "horse",
+      "kind": "zombie"
+    } 
+  ]
+}

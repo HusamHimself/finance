@@ -1,0 +1,24 @@
+{
+  "breakingPower": 6,
+  "blockStrength": 2300,
+  "name": "Ruby Gemstone",
+  "baseDrop": "ROUGH_RUBY_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:red_stained_glass",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:red_stained_glass_pane",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

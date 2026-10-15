@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Presumed Gallon of Red Paint",
+  "nbttag": "{ExtraAttributes:{id:\"PRESUMED_GALLON_OF_RED_PAINT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/presumed_gallon_of_red\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Blood-Soaked §7reforge\",4:\"§7when combined with a §9Cloak§7.\",5:\"\",6:\"§8§oNot sure if paint.\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §c Health\",11:\" §a Defense\",12:\" §4 Vitality\",13:\"\",14:\"§9Blood-Soaked Bonus\",15:\"§7Adds §d+1 Level §7to your §9Life Steal§7,\",16:\"§9Drain§7, and §9Vampirism §7enchantments.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 24§c.\",21:\"\",22:\"§9§lRARE REFORGE STONE\"],Name:\"§9Presumed Gallon of Red Paint\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Blood-Soaked §7reforge",
+    "§7when combined with a §9Cloak§7.",
+    "",
+    "§8§oNot sure if paint.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §4 Vitality",
+    "",
+    "§9Blood-Soaked Bonus",
+    "§7Adds §d+1 Level §7to your §9Life Steal§7,",
+    "§9Drain§7, and §9Vampirism §7enchantments.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "PRESUMED_GALLON_OF_RED_PAINT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Hemovibe VIII",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Presumed_Gallon_of_Red_Paint"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_COBBLESTONE:16",
+    "A2": "HEMOGLASS:16",
+    "A3": "ENCHANTED_COBBLESTONE:16",
+    "B1": "ENCHANTED_DARK_OAK_LOG:16",
+    "B2": "HEMOGLASS:16",
+    "B3": "ENCHANTED_DARK_OAK_LOG:16",
+    "C1": "ENCHANTED_DARK_OAK_LOG:16",
+    "C2": "ENCHANTED_DARK_OAK_LOG:16",
+    "C3": "ENCHANTED_DARK_OAK_LOG:16"
+  }
+}

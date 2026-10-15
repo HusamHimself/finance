@@ -1,0 +1,11 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/skeletor_prime.png",
+      "parts": true
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Red Scarf",
+  "nbttag": "{ExtraAttributes:{id:\"RED_SCARF\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/red_scarf\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Loving §7reforge when\",4:\"§7combined with a §cChestplate§7.\",5:\"\",6:\"§8§oGiven by his mother. Scarf always\",7:\"§8§ostudied harder than everyone else,\",8:\"§8§ohoping that one day he could bring\",9:\"§8§oher back.\",10:\"\",11:\"§7Grants the following stats that scale\",12:\"§7with the item's rarity:\",13:\" §c Health\",14:\" §a Defense\",15:\" §b Intelligence\",16:\"\",17:\"§9Loving Bonus\",18:\"§7Grants §c+5%  Ability Damage§7.\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 21§c.\",23:\"\",24:\"§9§lRARE REFORGE STONE\"],Name:\"§9Red Scarf\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Loving §7reforge when",
+    "§7combined with a §cChestplate§7.",
+    "",
+    "§8§oGiven by his mother. Scarf always",
+    "§8§ostudied harder than everyone else,",
+    "§8§ohoping that one day he could bring",
+    "§8§oher back.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §b Intelligence",
+    "",
+    "§9Loving Bonus",
+    "§7Grants §c+5%  Ability Damage§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 21§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "RED_SCARF",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Red_Scarf"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "breakingPower": 5,
+  "blockStrength": 2000,
+  "name": "Titanium Ore",
+  "baseDrop": "TITANIUM_ORE",
+  "blocks189": [
+    {
+      "itemId": "minecraft:polished_diorite",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

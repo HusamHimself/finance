@@ -1,0 +1,67 @@
+name: Check Files
+on:
+  pull_request:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+  merge_group:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check
+    if: ${{ '247692460' == github.repository_id || 'workflow_dispatch' == github.event_name }}
+    steps:
+      - name: Find HEAD Ref
+        id: sha
+        run: |
+          if [ $EVENT == 'pull_request' ]
+          then
+              echo "sha=$PR" >> $GITHUB_OUTPUT
+          else
+              echo "sha=$HEAD" >> $GITHUB_OUTPUT
+          fi
+        env:
+          EVENT: ${{ github.event_name }}
+          PR: ${{ github.event.pull_request.head.sha }}
+          HEAD: ${{ github.sha }}
+      - name: Checkout Repository
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ steps.sha.outputs.sha }}
+          path: 'repo'
+      - name: Checkout Workflow
+        id: checkout-workflow
+        uses: actions/checkout@v7
+        with:
+          repository: 'NotEnoughUpdates/NEU-REPO-Workflow'
+          ref: 'dist'
+          path: 'dist'
+      - name: Setup Java
+        uses: actions/setup-java@v5
+        with:
+          distribution: 'microsoft'
+          java-version: '25'
+      - name: Run Checks
+        run: ${{ github.workspace }}/dist/bin/Workflow
+        env:
+          REPO_BASE_PATH: ${{ github.workspace }}/repo
+          GITHUB_EVENT_NAME: ${{ github.event_name }}
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+
+  save_pr:
+    runs-on: ubuntu-latest
+    name: Log Failure
+    needs: check
+    if: failure() && github.event_name == 'pull_request'
+    steps:
+      - name: Save PR Number
+        run: "echo $PR_NUMBER > ${{ runner.temp }}/pr-number"
+        env:
+          PR_NUMBER: ${{ github.event.number }}
+      - name: Upload Artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: pr-number
+          archive: 'false'
+          path: ${{ runner.temp }}/pr-number

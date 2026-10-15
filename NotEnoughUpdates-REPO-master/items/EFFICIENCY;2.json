@@ -1,0 +1,30 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§fEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{efficiency:2},id:\"EFFICIENCY;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Efficiency II\",3:\"§7Increases how quickly your tool\",4:\"§7breaks blocks.\",5:\"\",6:\"§6Sources:\",7:\" §7- Enchantment Table (§aI-V§7)\",8:\" §7- §5Silex§7 (§aVI-X§7)\",9:\"\",10:\"§6Applied To:\",11:\" §7- §fTools\",12:\"\",13:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[0:{id:32S,lvl:2S}]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Efficiency II",
+    "§7Increases how quickly your tool",
+    "§7breaks blocks.",
+    "",
+    "§6Sources:",
+    " §7- Enchantment Table (§aI-V§7)",
+    " §7- §5Silex§7 (§aVI-X§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fTools",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "EFFICIENCY;2",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Efficiency"
+  ]
+}

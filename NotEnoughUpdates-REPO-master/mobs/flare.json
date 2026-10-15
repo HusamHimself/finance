@@ -1,0 +1,16 @@
+{
+  "entity": "Blaze",
+  "entitytype": "minecraft:blaze",
+  "modifiers": [
+    {
+      "type": "riding",
+      "entity": "Blaze",
+      "modifiers": [
+        {
+          "type": "riding",
+          "entity": "Blaze"
+        }
+      ]
+    }
+  ]
+}

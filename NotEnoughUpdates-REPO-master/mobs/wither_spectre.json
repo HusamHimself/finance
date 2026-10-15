@@ -1,0 +1,15 @@
+{
+  "entity": "WitherSkeleton",
+  "entitytype": "minecraft:wither_skeleton",
+  "modifiers": [
+    {
+      "type": "invisible"
+    },
+    {
+      "type": "equipment",
+      "hand": "IRON_SWORD",
+      "helmet": "WITHER_SPECTRE_MONSTER",
+      "chestplate": "LEATHER_CHESTPLATE#090608"
+    }
+  ] 
+}

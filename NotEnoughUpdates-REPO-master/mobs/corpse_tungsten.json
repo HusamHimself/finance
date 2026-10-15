@@ -1,0 +1,16 @@
+{
+  "entity": "ArmorStand",
+  "entitytype": "minecraft:armor_stand",
+  "modifiers": [
+    {
+      "type": "invisible"
+    },
+    {
+      "type": "equipment",
+      "helmet": "MINERAL_HELMET",
+      "chestplate": "MINERAL_CHESTPLATE",
+      "leggings": "MINERAL_LEGGINGS",
+      "feet": "MINERAL_BOOTS"
+    }
+  ] 
+}

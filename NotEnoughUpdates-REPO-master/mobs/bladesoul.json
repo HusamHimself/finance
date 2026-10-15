@@ -1,0 +1,11 @@
+{
+  "entity": "WitherSkeleton",
+  "entitytype": "minecraft:wither_skeleton",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "hand": "RAGNAROCK_AXE",
+      "helmet": "BLADESOUL_MINIBOSS"
+    }
+  ] 
+}

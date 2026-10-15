@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§fEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{prosperity:3},id:\"PROSPERITY;3\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Prosperity III\",3:\"§7Grants §a+9 §c❤ Health§7.\",4:\"\",5:\"§6Sources:\",6:\" §7- Fishing (§aI§7)\",7:\" §7- Bazaar (§aI-V§7)\",8:\"\",9:\"§6Applied To:\",10:\" §7- §fGloves\",11:\" §7- §fBelt\",12:\" §7- §fNecklace\",13:\" §7- §fBracelet\",14:\" §7- §fCloak\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Prosperity III",
+    "§7Grants §a+9 §c❤ Health§7.",
+    "",
+    "§6Sources:",
+    " §7- Fishing (§aI§7)",
+    " §7- Bazaar (§aI-V§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fGloves",
+    " §7- §fBelt",
+    " §7- §fNecklace",
+    " §7- §fBracelet",
+    " §7- §fCloak",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "PROSPERITY;3",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Prosperity"
+  ]
+}

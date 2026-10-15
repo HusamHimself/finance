@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Clipped Wings",
+  "nbttag": "{ExtraAttributes:{id:\"CLIPPED_WINGS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/clipped_wings\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Buzzing §7reforge when\",4:\"§7combined with a §aVacuum§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Farming Fortune\",9:\"\",10:\"§9Buzzing Bonus\",11:\"§7This item deals §cx2 Damage §7towards\",12:\"§2 Pests§7.\",13:\"\",14:\"§eRight-click to view rarity scaling!\",15:\"\",16:\"§4❣ §cRequires §aMining Skill 15§c.\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Clipped Wings\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Buzzing §7reforge when",
+    "§7combined with a §aVacuum§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Farming Fortune",
+    "",
+    "§9Buzzing Bonus",
+    "§7This item deals §cx2 Damage §7towards",
+    "§2 Pests§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 15§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "CLIPPED_WINGS",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Clipped_Wings"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Andesite Whetstone",
+  "nbttag": "{ExtraAttributes:{id:\"REFINED_AMBER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/refined_amber\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Refined §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §3☯ Mining Wisdom\",9:\"\",10:\"§9Refined Bonus\",11:\"§7You have a §a0.25% §7chance to find\",12:\"§7enchanted forms of items when mining\",13:\"§6Ores§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 25§c.\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Andesite Whetstone\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Refined §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §3☯ Mining Wisdom",
+    "",
+    "§9Refined Bonus",
+    "§7You have a §a0.25% §7chance to find",
+    "§7enchanted forms of items when mining",
+    "§6Ores§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 25§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "REFINED_AMBER",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Andesite_Whetstone"
+  ]
+}

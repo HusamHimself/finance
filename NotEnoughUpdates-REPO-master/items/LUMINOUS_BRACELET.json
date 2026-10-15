@@ -1,0 +1,28 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aLuminous Bracelet",
+  "nbttag": "{ExtraAttributes:{id:\"LUMINOUS_BRACELET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/farming_1/luminous_bracelet\",display:{Lore:[0:\"§7Fishing Speed: §b+1\",1:\"§7Sea Creature Chance: §3+1%\",2:\"\",3:\"§7Earn §6+20 Coins §7and §3+10 Fishing XP\",4:\"§7when depositing §aChum §7in someone\",5:\"§7ELSE's bucket.\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires §aFishing Skill 12§c.\",11:\"§a§lUNCOMMON BRACELET\"],Name:\"§aLuminous Bracelet\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Fishing Speed: §b+1",
+    "§7Sea Creature Chance: §3+1%",
+    "",
+    "§7Earn §6+20 Coins §7and §3+10 Fishing XP",
+    "§7when depositing §aChum §7in someone",
+    "§7ELSE's bucket.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aFishing Skill 12§c.",
+    "§a§lUNCOMMON BRACELET"
+  ],
+  "internalname": "LUMINOUS_BRACELET",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Luminous_Bracelet"
+  ]
+}

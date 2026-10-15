@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§fAngler Necklace",
+  "nbttag": "{ExtraAttributes:{id:\"ANGLER_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/angler/angler_necklace\",display:{Lore:[0:\"§7Fishing Speed: §b+1\",1:\"§7Sea Creature Chance: §3+0.5%\",2:\"\",3:\"§8Tiered Bonus: Depth Champion (0/8)\",4:\"§7Reduces the damage taken from §3Sea\",5:\"§3Creatures §7by §a3%§7.\",6:\"\",7:\"§8Tiered Bonus: Deepness Within (0/4)\",8:\"§7Gain §c6❤ §7per Fishing level.\",9:\"§7Fishing: §eLevel 0\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§f§lCOMMON NECKLACE\"],Name:\"§fAngler Necklace\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Fishing Speed: §b+1",
+    "§7Sea Creature Chance: §3+0.5%",
+    "",
+    "§8Tiered Bonus: Depth Champion (0/8)",
+    "§7Reduces the damage taken from §3Sea",
+    "§3Creatures §7by §a3%§7.",
+    "",
+    "§8Tiered Bonus: Deepness Within (0/4)",
+    "§7Gain §c6❤ §7per Fishing level.",
+    "§7Fishing: §eLevel 0",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§f§lCOMMON NECKLACE"
+  ],
+  "internalname": "ANGLER_NECKLACE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Angler_Necklace"
+  ]
+}

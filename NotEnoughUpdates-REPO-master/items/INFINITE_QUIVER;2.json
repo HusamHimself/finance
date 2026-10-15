@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§fEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{infinite_quiver:2},id:\"INFINITE_QUIVER;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Infinite Quiver II\",3:\"§7Saves arrows §a6%§7 of the time\",4:\"§7when you fire your bow.\",5:\"\",6:\"§6Sources:\",7:\" §7- Enchantment Table (§aI-V§7)\",8:\" §7- Catacombs (§aVI-X§7)\",9:\" §7- Bazaar (§aVI-X§7)\",10:\"\",11:\"§6Applied To:\",12:\" §7- §fBow\",13:\"\",14:\"§6Requirements:\",15:\" §7- §bEnchanting Level 2\",16:\"\",17:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Infinite Quiver II",
+    "§7Saves arrows §a6%§7 of the time",
+    "§7when you fire your bow.",
+    "",
+    "§6Sources:",
+    " §7- Enchantment Table (§aI-V§7)",
+    " §7- Catacombs (§aVI-X§7)",
+    " §7- Bazaar (§aVI-X§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fBow",
+    "",
+    "§6Requirements:",
+    " §7- §bEnchanting Level 2",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "INFINITE_QUIVER;2",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Infinite_Quiver"
+  ],
+  "parent": "INFINITE_QUIVER;4"
+}

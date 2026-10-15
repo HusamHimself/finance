@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Ancient Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ANCIENT_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/ancient_cloak\",display:{Lore:[0:\"§7Health: §c+15\",1:\"§7Mining Fortune: §6+10\",2:\"\",3:\"§7Health-consuming abilities deal §a10%\",4:\"§7more damage.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aCombat Skill 22§c.\",10:\"§5§lEPIC CLOAK\"],Name:\"§5Ancient Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+15",
+    "§7Mining Fortune: §6+10",
+    "",
+    "§7Health-consuming abilities deal §a10%",
+    "§7more damage.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC CLOAK"
+  ],
+  "internalname": "ANCIENT_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Ancient_Cloak"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_RED_SAND_CUBE:1",
+    "A2": "WITHER_SOUL:64",
+    "A3": "ENCHANTED_RED_SAND_CUBE:1",
+    "B1": "ENCHANTED_RED_SAND_CUBE:1",
+    "B2": "",
+    "B3": "ENCHANTED_RED_SAND_CUBE:1",
+    "C1": "ENCHANTED_RED_SAND_CUBE:1",
+    "C2": "",
+    "C3": "ENCHANTED_RED_SAND_CUBE:1"
+  }
+}

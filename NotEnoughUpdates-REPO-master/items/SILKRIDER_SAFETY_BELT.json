@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aSilkrider Safety Belt",
+  "nbttag": "{ExtraAttributes:{id:\"SILKRIDER_SAFETY_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/equipment/t1/silkrider_safety_belt\",display:{Lore:[0:\"§7Rift Time: §a+60s\",1:\"§7Speed: §f+2\",2:\"\",3:\"§7Monster melee attacks reduce §a1 §7less\",4:\"§a Rift Time§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§a§lUNCOMMON BELT\"],Name:\"§aSilkrider Safety Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Rift Time: §a+60s",
+    "§7Speed: §f+2",
+    "",
+    "§7Monster melee attacks reduce §a1 §7less",
+    "§a Rift Time§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§a§lUNCOMMON BELT"
+  ],
+  "internalname": "SILKRIDER_SAFETY_BELT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Silkrider_Safety_Belt"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "itemid": "minecraft:writable_book",
+  "displayname": "§fBook and Quill",
+  "nbttag": "{ExtraAttributes:{id:\"BOOK_AND_QUILL\"},HideFlags:254,ItemModel:\"minecraft:writable_book\",display:{Lore:[0:\"§f§lCOMMON\"],Name:\"§fBook and Quill\"}}",
+  "damage": 0,
+  "lore": [
+    "§f§lCOMMON"
+  ],
+  "internalname": "BOOK_AND_QUILL",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "",
+  "info": [],
+  "vanilla": true,
+  "recipe": {
+    "A1": "BOOK:1",
+    "A2": "INK_SACK:1",
+    "A3": "FEATHER:1",
+    "B1": "",
+    "B2": "",
+    "B3": "",
+    "C1": "",
+    "C2": "",
+    "C3": ""
+  }
+}

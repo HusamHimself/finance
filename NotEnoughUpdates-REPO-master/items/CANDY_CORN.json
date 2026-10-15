@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aCandy Corn",
+  "nbttag": "{ExtraAttributes:{id:\"CANDY_CORN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/candy_corn\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Candied §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Health\",9:\" §a Defense\",10:\"\",11:\"§9Candied Bonus\",12:\"§7Mobs are §a1%§7 more likely to drop\",13:\"§7candy during the §6Spooky Festival§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aCandy Corn\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Candied §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    "",
+    "§9Candied Bonus",
+    "§7Mobs are §a1%§7 more likely to drop",
+    "§7candy during the §6Spooky Festival§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "CANDY_CORN",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Candy_Corn"
+  ]
+}

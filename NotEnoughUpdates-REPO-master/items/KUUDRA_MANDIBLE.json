@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Kuudra Mandible",
+  "nbttag": "{ExtraAttributes:{id:\"KUUDRA_MANDIBLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/kuudra_mandible\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Chomp §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Strength\",9:\" §9 Crit Chance\",10:\" §b Fishing Speed\",11:\"\",12:\"§9Chomp Bonus\",13:\"§7Each unique §cLava Sea Creature\",14:\"§7killed with this rod in your inventory\",15:\"§7reduces their §c Health §7when fished\",16:\"§7by §a1%§7.\",17:\"§8Capped at -20% health.\",18:\"\",19:\"§7Current Reduction: §c-0% ❤\",20:\"\",21:\"§eRight-click to view rarity scaling!\",22:\"\",23:\"§4❣ §cRequires §aMining Skill 33§c.\",24:\"\",25:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Kuudra Mandible\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Chomp §7reforge when",
+    "§7combined with a §bFishing Rod§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §b Fishing Speed",
+    "",
+    "§9Chomp Bonus",
+    "§7Each unique §cLava Sea Creature",
+    "§7killed with this rod in your inventory",
+    "§7reduces their §c Health §7when fished",
+    "§7by §a1%§7.",
+    "§8Capped at -20% health.",
+    "",
+    "§7Current Reduction: §c-0% ❤",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 33§c.",
+    "",
+    "§6§lLEGENDARY REFORGE STONE"
+  ],
+  "internalname": "KUUDRA_MANDIBLE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Kuudra_Mandible"
+  ]
+}

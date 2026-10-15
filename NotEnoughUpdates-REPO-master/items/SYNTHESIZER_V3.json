@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Synthesizer v3",
+  "nbttag": "{ExtraAttributes:{id:\"SYNTHESIZER_V3\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/synthesizer_v3\",display:{Lore:[0:\"§7Can synthesize X, Y, and Z items\",1:\"§7increasing the stats of this\",2:\"§7necklace.\",3:\"\",4:\"§7Current Bonuses:\",5:\"§80/40 §c Health\",6:\"§80/40 §a Defense\",7:\"§80/60 §b Intelligence\",8:\"\",9:\"§eRight-click to open!\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC NECKLACE\"],Name:\"§5Synthesizer v3\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Can synthesize X, Y, and Z items",
+    "§7increasing the stats of this",
+    "§7necklace.",
+    "",
+    "§7Current Bonuses:",
+    "§80/40 §c Health",
+    "§80/40 §a Defense",
+    "§80/60 §b Intelligence",
+    "",
+    "§eRight-click to open!",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC NECKLACE"
+  ],
+  "internalname": "SYNTHESIZER_V3",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Synthesizer_v3"
+  ],
+  "recipe": {
+    "A1": "Z:64",
+    "A2": "Z:64",
+    "A3": "Z:64",
+    "B1": "Z:64",
+    "B2": "SYNTHESIZER_V2:1",
+    "B3": "Z:64",
+    "C1": "Z:64",
+    "C2": "Z:64",
+    "C3": "Z:64"
+  }
+}

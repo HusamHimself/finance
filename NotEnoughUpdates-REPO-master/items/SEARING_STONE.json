@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Searing Stone",
+  "nbttag": "{ExtraAttributes:{id:\"SEARING_STONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/searing_stone\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Strengthened §7reforge\",4:\"§7when combined with §9Equipment§7.\",5:\"\",6:\"§8§oLegends say this stone will never\",7:\"§8§ocease glowing.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §a Defense\",12:\" §c Strength\",13:\"\",14:\"§eRight-click to view rarity scaling!\",15:\"\",16:\"§4❣ §cRequires §aMining Skill 24§c.\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Searing Stone\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Strengthened §7reforge",
+    "§7when combined with §9Equipment§7.",
+    "",
+    "§8§oLegends say this stone will never",
+    "§8§ocease glowing.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §a Defense",
+    " §c Strength",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "SEARING_STONE",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Searing_Stone"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_MAGMA_CREAM:10",
+    "A2": "ENCHANTED_MAGMA_CREAM:10",
+    "A3": "ENCHANTED_MAGMA_CREAM:10",
+    "B1": "ENCHANTED_MAGMA_CREAM:10",
+    "B2": "MAGMA_CHUNK:50",
+    "B3": "ENCHANTED_MAGMA_CREAM:10",
+    "C1": "ENCHANTED_NETHERRACK:10",
+    "C2": "ENCHANTED_NETHERRACK:10",
+    "C3": "ENCHANTED_NETHERRACK:10"
+  }
+}

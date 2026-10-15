@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Pitchin' Koi",
+  "nbttag": "{ExtraAttributes:{id:\"PITCHIN_KOI\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/pitchin_koi\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Pitchin' §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §b Fishing Speed\",9:\" §3 Sea Creature Chance\",10:\"\",11:\"§eRight-click to view rarity scaling!\",12:\"\",13:\"§4❣ §cRequires §aMining Skill 18§c.\",14:\"\",15:\"§9§lRARE REFORGE STONE\"],Name:\"§9Pitchin' Koi\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Pitchin' §7reforge when",
+    "§7combined with a §bFishing Rod§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §b Fishing Speed",
+    " §3 Sea Creature Chance",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 18§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "PITCHIN_KOI",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Pitchin%27_Koi"
+  ]
+}

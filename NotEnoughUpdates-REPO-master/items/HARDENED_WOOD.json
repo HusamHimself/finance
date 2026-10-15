@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aHardened Wood",
+  "nbttag": "{ExtraAttributes:{id:\"HARDENED_WOOD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/hardened_wood\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Stiff §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Strength\",9:\" §3 Sea Creature Chance\",10:\"\",11:\"§9Stiff Bonus\",12:\"§3Sea Creatures §7killed with this §bFishing\",13:\"§bRod §7drop §a+1 Chum§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 12§c.\",18:\"\",19:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aHardened Wood\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Stiff §7reforge when",
+    "§7combined with a §bFishing Rod§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §3 Sea Creature Chance",
+    "",
+    "§9Stiff Bonus",
+    "§3Sea Creatures §7killed with this §bFishing",
+    "§bRod §7drop §a+1 Chum§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 12§c.",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "HARDENED_WOOD",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Hardened_Wood"
+  ]
+}

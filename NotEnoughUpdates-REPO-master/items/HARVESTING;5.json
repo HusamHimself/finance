@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§aEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{harvesting:5},id:\"HARVESTING;5\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Harvesting V\",3:\"§7Grants §a+62.5 §6☘ Farming\",4:\"§6Fortune§7, which increases your\",5:\"§7chance for multiple crops.\",6:\"\",7:\"§6Sources:\",8:\" §7- Enchantment Table (§aI-V§7)\",9:\" §7- Shiny Pigs (§aVI§7)\",10:\" §7- Bazaar (§aVI§7)\",11:\"\",12:\"§6Applied To:\",13:\" §7- §fFarming Tool\",14:\"\",15:\"§6Requirements:\",16:\" §7- §bEnchanting Level 2\",17:\"\",18:\"§a§lUNCOMMON\"],Name:\"§aEnchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Harvesting V",
+    "§7Grants §a+62.5 §6☘ Farming",
+    "§6Fortune§7, which increases your",
+    "§7chance for multiple crops.",
+    "",
+    "§6Sources:",
+    " §7- Enchantment Table (§aI-V§7)",
+    " §7- Shiny Pigs (§aVI§7)",
+    " §7- Bazaar (§aVI§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fFarming Tool",
+    "",
+    "§6Requirements:",
+    " §7- §bEnchanting Level 2",
+    "",
+    "§a§lUNCOMMON"
+  ],
+  "internalname": "HARVESTING;5",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Harvesting"
+  ]
+}

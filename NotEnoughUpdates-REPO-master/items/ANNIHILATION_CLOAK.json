@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Annihilation Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ANNIHILATION_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/slayer/blaze/equipment/annihilation_cloak\",display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Strength: §c+20\",2:\"§7Crit Damage: §9+20%\",3:\"§7Magic Find: §b+2\",4:\"§7Foraging Wisdom: §3+2\",5:\"\",6:\"§7Heal §c25❤ §7every §a1s §7while worn.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4☠ §cRequires §5Blaze Slayer 7§c.\",12:\"§6§lLEGENDARY CLOAK\"],Name:\"§6Annihilation Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+80",
+    "§7Strength: §c+20",
+    "§7Crit Damage: §9+20%",
+    "§7Magic Find: §b+2",
+    "§7Foraging Wisdom: §3+2",
+    "",
+    "§7Heal §c25❤ §7every §a1s §7while worn.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4☠ §cRequires §5Blaze Slayer 7§c.",
+    "§6§lLEGENDARY CLOAK"
+  ],
+  "internalname": "ANNIHILATION_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Blaze Slayer 7",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Annihilation_Cloak"
+  ],
+  "recipe": {
+    "A1": "WOOD_SINGULARITY:1",
+    "A2": "DESTRUCTION_CLOAK:1",
+    "A3": "WOOD_SINGULARITY:1",
+    "B1": "MOLTEN_POWDER:64",
+    "B2": "INFERNO_VERTEX:8",
+    "B3": "MOLTEN_POWDER:64",
+    "C1": "MOLTEN_POWDER:64",
+    "C2": "ENCHANTED_SULPHUR_CUBE:16",
+    "C3": "MOLTEN_POWDER:64"
+  },
+  "slayer_req": "BLAZE_7"
+}

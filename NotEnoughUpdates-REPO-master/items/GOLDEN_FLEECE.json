@@ -1,0 +1,47 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Golden Fleece",
+  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_FLEECE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/diana/golden_fleece\",display:{Lore:[0:\"§7True Defense: §f+10\",1:\"§7Strength: §c+20\",2:\"§7Crit Damage: §9+15%\",3:\"\",4:\"§7Grants §b+5 Magic Find §7on §2\",5:\"§2Mythological §7mobs.\",6:\"\",7:\"§6Ability: Empyrean Intuition \",8:\"§7Grants §d+15 Tracking §7on §eGriffin\",9:\"§eBurrows§7.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§6§lLEGENDARY CLOAK\"],Name:\"§6Golden Fleece\"}}",
+  "damage": 0,
+  "lore": [
+    "§7True Defense: §f+10",
+    "§7Strength: §c+20",
+    "§7Crit Damage: §9+15%",
+    "",
+    "§7Grants §b+5 Magic Find §7on §2",
+    "§2Mythological §7mobs.",
+    "",
+    "§6Ability: Empyrean Intuition ",
+    "§7Grants §d+15 Tracking §7on §eGriffin",
+    "§eBurrows§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY CLOAK"
+  ],
+  "internalname": "GOLDEN_FLEECE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Golden_Fleece"
+  ],
+  "recipes": [
+    {
+      "A1": "ENCHANTED_WOOL:64",
+      "A2": "SHIMMERING_WOOL:1",
+      "A3": "ENCHANTED_WOOL:64",
+      "B1": "ENCHANTED_GOLD_BLOCK:64",
+      "B2": "BRAIDED_GRIFFIN_FEATHER:1",
+      "B3": "ENCHANTED_GOLD_BLOCK:64",
+      "C1": "ENCHANTED_GOLD_BLOCK:64",
+      "C2": "",
+      "C3": "ENCHANTED_GOLD_BLOCK:64",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GOLDEN_FLEECE"
+    }
+  ]
+}

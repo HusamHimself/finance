@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Diamond Atom",
+  "nbttag": "{ExtraAttributes:{id:\"DIAMOND_ATOM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/diamond_atom\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Perfect §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oThis miniscule stone is the dream of\",7:\"§8§oevery blacksmith.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §a Defense\",12:\"\",13:\"§9Perfect Bonus\",14:\"§7Grants §a+2%  Defense§7.\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 22§c.\",19:\"\",20:\"§9§lRARE REFORGE STONE\"],Name:\"§9Diamond Atom\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Perfect §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oThis miniscule stone is the dream of",
+    "§8§oevery blacksmith.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §a Defense",
+    "",
+    "§9Perfect Bonus",
+    "§7Grants §a+2%  Defense§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 22§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "DIAMOND_ATOM",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Diamond_Atom"
+  ]
+}

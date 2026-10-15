@@ -1,0 +1,24 @@
+{
+  "breakingPower": 7,
+  "blockStrength": 3000,
+  "name": "Jade Gemstone",
+  "baseDrop": "ROUGH_JADE_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:lime_stained_glass",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:lime_stained_glass_pane",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

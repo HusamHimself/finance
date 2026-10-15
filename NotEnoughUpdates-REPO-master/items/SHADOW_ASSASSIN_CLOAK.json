@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Shadow Assassin Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"SHADOW_ASSASSIN_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/shadow_assassin_cloak\",display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Speed: §f+3\",2:\"\",3:\"§6Piece Bonus: Bloodrush\",4:\"§7On teleport: Your next melee hit\",5:\"§7within §a5s §7deals §c10% §7more damage.\",6:\"§8Cooldown: §a3s\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires The Catacombs Floor V Completion.\",12:\"§5§lEPIC DUNGEON CLOAK\"],Name:\"§5Shadow Assassin Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Strength: §c+20",
+    "§7Speed: §f+3",
+    "",
+    "§6Piece Bonus: Bloodrush",
+    "§7On teleport: Your next melee hit",
+    "§7within §a5s §7deals §c10% §7more damage.",
+    "§8Cooldown: §a3s",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires The Catacombs Floor V Completion.",
+    "§5§lEPIC DUNGEON CLOAK"
+  ],
+  "internalname": "SHADOW_ASSASSIN_CLOAK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shadow_Assassin_Cloak"
+  ]
+}

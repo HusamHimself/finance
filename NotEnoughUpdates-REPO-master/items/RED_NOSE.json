@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Red Nose",
+  "nbttag": "{ExtraAttributes:{id:\"RED_NOSE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/red_nose\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Ridiculous §7reforge when\",4:\"§7combined with a §cHelmet§7.\",5:\"\",6:\"§8§oBonzo never wears it in the\",7:\"§8§opresence of other Necromancers.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §c Health\",12:\" §a Defense\",13:\" §9 Crit Chance\",14:\"\",15:\"§9Ridiculous Bonus\",16:\"§e§lSNEAK§7: Fart, granting §a+30 Defense\",17:\"§7and §b+50 Mana §7for §a5s§7, but inflicts\",18:\"§9-20%  Crit Chance §7for §a20s§7.\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 17§c.\",23:\"\",24:\"§9§lRARE REFORGE STONE\"],Name:\"§9Red Nose\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Ridiculous §7reforge when",
+    "§7combined with a §cHelmet§7.",
+    "",
+    "§8§oBonzo never wears it in the",
+    "§8§opresence of other Necromancers.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §9 Crit Chance",
+    "",
+    "§9Ridiculous Bonus",
+    "§e§lSNEAK§7: Fart, granting §a+30 Defense",
+    "§7and §b+50 Mana §7for §a5s§7, but inflicts",
+    "§9-20%  Crit Chance §7for §a20s§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 17§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "RED_NOSE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Red_Nose"
+  ]
+}

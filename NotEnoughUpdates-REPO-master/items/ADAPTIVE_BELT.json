@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Adaptive Belt",
+  "nbttag": "{ExtraAttributes:{id:\"ADAPTIVE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/adaptive_belt\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Defense: §a+5\",2:\"§7Strength: §c+5\",3:\"\",4:\"§7Grants additional bonuses based on your\",5:\"§7selected dungeon class!\",6:\"\",7:\"§bBerserk§7: +§c10 Strength\",8:\"§bHealer§7: +§c10 Health§7, +§a5 Mending\",9:\"§bMage§7: +§b25 Intelligence\",10:\"§bTank§7: +§c5 Health§7, +§a10 Defense\",11:\"§bArcher§7: +§92 Crit Chance§7, +§95 Crit Damage\",12:\"\",13:\"§eRight-click to equip!\",14:\"\",15:\"§8This item can be reforged!\",16:\"§4❣ §cRequires The Catacombs Floor II Completion.\",17:\"§5§lEPIC DUNGEON BELT\"],Name:\"§5Adaptive Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+10",
+    "§7Defense: §a+5",
+    "§7Strength: §c+5",
+    "",
+    "§7Grants additional bonuses based on your",
+    "§7selected dungeon class!",
+    "",
+    "§bBerserk§7: +§c10 Strength",
+    "§bHealer§7: +§c10 Health§7, +§a5 Mending",
+    "§bMage§7: +§b25 Intelligence",
+    "§bTank§7: +§c5 Health§7, +§a10 Defense",
+    "§bArcher§7: +§92 Crit Chance§7, +§95 Crit Damage",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires The Catacombs Floor II Completion.",
+    "§5§lEPIC DUNGEON BELT"
+  ],
+  "internalname": "ADAPTIVE_BELT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Adaptive_Belt"
+  ]
+}

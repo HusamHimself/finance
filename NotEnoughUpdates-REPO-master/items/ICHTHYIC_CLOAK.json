@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Ichthyic Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ICHTHYIC_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/fishing_equipment/ichthyic_cloak\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Fishing Speed: §b+6\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE CLOAK\"],Name:\"§9Ichthyic Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+10",
+    "§7Fishing Speed: §b+6",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§9§lRARE CLOAK"
+  ],
+  "internalname": "ICHTHYIC_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Ichthyic_Cloak"
+  ],
+  "recipe": {
+    "A1": "BLUE_SHARK_TOOTH:8",
+    "A2": "NURSE_SHARK_TOOTH:32",
+    "A3": "BLUE_SHARK_TOOTH:8",
+    "B1": "ENCHANTED_SHARK_FIN:1",
+    "B2": "",
+    "B3": "ENCHANTED_SHARK_FIN:1",
+    "C1": "ENCHANTED_SHARK_FIN:1",
+    "C2": "",
+    "C3": "ENCHANTED_SHARK_FIN:1"
+  }
+}

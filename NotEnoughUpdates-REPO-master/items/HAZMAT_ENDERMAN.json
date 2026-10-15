@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Hazmat Enderman",
+  "nbttag": "{ExtraAttributes:{id:\"HAZMAT_ENDERMAN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/power_stones/hazmat_enderman\",display:{Lore:[0:\"§7Combine §ax9 §7of this item at the\",1:\"§6Thaumaturgist §7in the §bHub §7to unlock the\",2:\"§aSlender §7power.\",3:\"\",4:\"§7At §6250 Accessory Power§7:\",5:\"§c+80.99 Health\",6:\"§a+57.85 Defense\",7:\"§c+57.85 Strength\",8:\"§9+57.85 Crit Damage\",9:\"§e+10.41 Attack Speed\",10:\"§b+86.78 Intelligence\",11:\"§f+5.79 Speed\",12:\"\",13:\"§7Unique Power Bonus:\",14:\"§a+100 Defense\",15:\"§c+50 Strength\",16:\"\",17:\"§4❣ §cRequires §aCombat Skill 30§c.\",18:\"\",19:\"§6§lLEGENDARY POWER STONE\"],Name:\"§6Hazmat Enderman\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Combine §ax9 §7of this item at the",
+    "§6Thaumaturgist §7in the §bHub §7to unlock the",
+    "§aSlender §7power.",
+    "",
+    "§7At §6250 Accessory Power§7:",
+    "§c+80.99 Health",
+    "§a+57.85 Defense",
+    "§c+57.85 Strength",
+    "§9+57.85 Crit Damage",
+    "§e+10.41 Attack Speed",
+    "§b+86.78 Intelligence",
+    "§f+5.79 Speed",
+    "",
+    "§7Unique Power Bonus:",
+    "§a+100 Defense",
+    "§c+50 Strength",
+    "",
+    "§4❣ §cRequires §aCombat Skill 30§c.",
+    "",
+    "§6§lLEGENDARY POWER STONE"
+  ],
+  "internalname": "HAZMAT_ENDERMAN",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Hazmat_Enderman"
+  ]
+}

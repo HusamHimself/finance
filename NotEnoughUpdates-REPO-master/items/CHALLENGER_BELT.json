@@ -1,0 +1,49 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Challenger's Belt",
+  "nbttag": "{ExtraAttributes:{id:\"CHALLENGER_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/diana/challenger_belt\",display:{Lore:[0:\"§7Health: §c+20\",1:\"§7Defense: §a+10\",2:\"§7Strength: §c+5\",3:\"\",4:\"§6Ability: Mythos' Might \",5:\"§7Grants §a2x §7this equipment's stats\",6:\"§7while in §aThe Hub §7during Diana's\",7:\"§2Mythological Ritual§7.\",8:\"\",9:\"§8Tiered Bonus: Unearthed (0/8)\",10:\"§7Reduces damage taken from §2\",11:\"§2Mythological §7mobs by §a0%§7.\",12:\"\",13:\"§eRight-click to equip!\",14:\"\",15:\"§8This item can be reforged!\",16:\"§5§lEPIC BELT\"],Name:\"§5Challenger's Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+20",
+    "§7Defense: §a+10",
+    "§7Strength: §c+5",
+    "",
+    "§6Ability: Mythos' Might ",
+    "§7Grants §a2x §7this equipment's stats",
+    "§7while in §aThe Hub §7during Diana's",
+    "§2Mythological Ritual§7.",
+    "",
+    "§8Tiered Bonus: Unearthed (0/8)",
+    "§7Reduces damage taken from §2",
+    "§2Mythological §7mobs by §a0%§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC BELT"
+  ],
+  "internalname": "CHALLENGER_BELT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Challenger%27s_Belt"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "",
+      "A3": "",
+      "B1": "ENCHANTED_GOLD:16",
+      "B2": "",
+      "B3": "ENCHANTED_GOLD:16",
+      "C1": "GRIFFIN_FEATHER:2",
+      "C2": "ANCIENT_CLAW:64",
+      "C3": "GRIFFIN_FEATHER:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "CHALLENGER_BELT"
+    }
+  ]
+}

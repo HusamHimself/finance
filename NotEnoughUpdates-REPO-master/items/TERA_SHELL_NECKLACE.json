@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Tera Shell Necklace",
+  "nbttag": "{ExtraAttributes:{id:\"TERA_SHELL_NECKLACE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/tera_shell_necklace\",display:{Lore:[0:\"§7Health: §c+80\",1:\"§7Defense: §a+30\",2:\"§7Intelligence: §b+20\",3:\"\",4:\"§7You can no longer catch §6Trophies\",5:\"§7while wearing this Necklace.\",6:\"\",7:\"§8§oTelling Trophy Fish to pound sand\",8:\"§8§osomehow elicits their deepest,\",9:\"§8§odarkest fears.\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§4❣ §cRequires §aCombat Skill 22§c.\",15:\"§5§lEPIC NECKLACE\"],Name:\"§5Tera Shell Necklace\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+80",
+    "§7Defense: §a+30",
+    "§7Intelligence: §b+20",
+    "",
+    "§7You can no longer catch §6Trophies",
+    "§7while wearing this Necklace.",
+    "",
+    "§8§oTelling Trophy Fish to pound sand",
+    "§8§osomehow elicits their deepest,",
+    "§8§odarkest fears.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC NECKLACE"
+  ],
+  "internalname": "TERA_SHELL_NECKLACE",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Tera_Shell_Necklace"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_RED_SAND_CUBE:1",
+    "A2": "ENCHANTED_MYCELIUM_CUBE:1",
+    "A3": "ENCHANTED_RED_SAND_CUBE:1",
+    "B1": "ENCHANTED_MYCELIUM_CUBE:1",
+    "B2": "GAZING_PEARL:5",
+    "B3": "ENCHANTED_MYCELIUM_CUBE:1",
+    "C1": "ENCHANTED_RED_SAND_CUBE:1",
+    "C2": "ENCHANTED_MYCELIUM_CUBE:1",
+    "C3": "ENCHANTED_RED_SAND_CUBE:1"
+  }
+}

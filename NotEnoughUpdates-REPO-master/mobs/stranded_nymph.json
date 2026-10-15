@@ -1,0 +1,11 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/stranded_nymph.png",
+      "parts": true
+    }
+  ]
+}

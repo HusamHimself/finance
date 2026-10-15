@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Pure Mithril",
+  "nbttag": "{ExtraAttributes:{id:\"PURE_MITHRIL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/pure_mithril\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Mithraic §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§8§oIt takes a few hours of forging to\",7:\"§8§opurify Mithril - the impurities extract\",8:\"§8§othemselves while the Mithril coalesces.\",9:\"\",10:\"§7Grants the following stats that scale\",11:\"§7with the item's rarity:\",12:\" §6 Mining Fortune\",13:\"\",14:\"§9Mithraic Bonus\",15:\"§7Grants §6+50 Mining Fortune §7towards\",16:\"§aMithril §7and §aTitanium§7.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 18§c.\",21:\"\",22:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Pure Mithril\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Mithraic §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§8§oIt takes a few hours of forging to",
+    "§8§opurify Mithril - the impurities extract",
+    "§8§othemselves while the Mithril coalesces.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Fortune",
+    "",
+    "§9Mithraic Bonus",
+    "§7Grants §6+50 Mining Fortune §7towards",
+    "§aMithril §7and §aTitanium§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 18§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "PURE_MITHRIL",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 3",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Pure_Mithril"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "REFINED_MITHRIL:2"
+      ],
+      "count": 1,
+      "overrideOutputId": "PURE_MITHRIL",
+      "duration": 21600
+    }
+  ]
+}

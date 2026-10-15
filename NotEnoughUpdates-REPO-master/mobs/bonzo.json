@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/bonzo.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "BONZO_STAFF"
+    }
+  ]
+}

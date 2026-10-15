@@ -1,0 +1,24 @@
+{
+  "entity": "Horse",
+  "entitytype": "minecraft:skeleton_horse",
+  "modifiers": [
+    {
+      "type": "horse",
+      "kind": "skeleton"
+    },
+    {  
+      "type": "riding",
+      "entity": "Skeleton",
+      "modifiers": [
+        {
+          "type": "equipment",
+          "hand": "DIAMOND_HOE",
+          "helmet": "HEADLESS_HORSEMAN_BOSS",
+          "chestplate": "SPOOKY_CHESTPLATE",
+          "leggings": "SPOOKY_LEGGINGS",
+          "feet": "SPOOKY_BOOTS"
+        }
+      ]
+    }  
+  ]
+}

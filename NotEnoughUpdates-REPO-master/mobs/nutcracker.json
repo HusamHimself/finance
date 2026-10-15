@@ -1,0 +1,13 @@
+{
+  "entity": "Zombie",
+  "entitytype": "minecraft:zombie",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "helmet": "NUTCRACKER_HELMET",
+      "chestplate": "NUTCRACKER_CHESTPLATE",
+      "leggings": "NUTCRACKER_LEGGINGS",
+      "feet": "NUTCRACKER_BOOTS"
+    }
+  ] 
+}

@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Enigma Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ENIGMA_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/equipment/enigma_cloak\",display:{Lore:[0:\"§7Find §5Enigma Souls §7across the Rift\",1:\"§7Dimension.\",2:\"\",3:\"§7Each adds §a+20 Rift Time §7to this item.\",4:\"\",5:\"§7Every §54 Souls§7, go back to §5Enigma §7for\",6:\"§7more upgrades.\",7:\"\",8:\"§7You found: §d§k0§5/42 Souls\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§5§lEPIC CLOAK\"],Name:\"§5Enigma Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Find §5Enigma Souls §7across the Rift",
+    "§7Dimension.",
+    "",
+    "§7Each adds §a+20 Rift Time §7to this item.",
+    "",
+    "§7Every §54 Souls§7, go back to §5Enigma §7for",
+    "§7more upgrades.",
+    "",
+    "§7You found: §d§k0§5/42 Souls",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§5§lEPIC CLOAK"
+  ],
+  "internalname": "ENIGMA_CLOAK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Enigma_Cloak"
+  ]
+}

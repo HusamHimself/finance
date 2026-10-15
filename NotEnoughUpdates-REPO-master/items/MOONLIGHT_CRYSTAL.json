@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Moonlight Crystal",
+  "nbttag": "{ExtraAttributes:{id:\"MOONLIGHT_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/moonlight_crystal\",display:{Lore:[0:\"§7Accessory Power: §6+12\",1:\"\",2:\"§7Increases your §c Strength §7and §a\",3:\"§aDefense§7 by §a+10§7 during the Night.\",4:\"\",5:\"§8Works while in Accessory Bag!\",6:\"§5§lEPIC ACCESSORY\"],Name:\"§5Moonlight Crystal\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Accessory Power: §6+12",
+    "",
+    "§7Increases your §c Strength §7and §a",
+    "§aDefense§7 by §a+10§7 during the Night.",
+    "",
+    "§8Works while in Accessory Bag!",
+    "§5§lEPIC ACCESSORY"
+  ],
+  "internalname": "MOONLIGHT_CRYSTAL",
+  "clickcommand": "",
+  "crafttext": "Requires: Moonflower VIII",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Moonlight_Crystal"
+  ],
+  "recipes": [
+    {
+      "A1": "COMPACTED_MOONFLOWER:4",
+      "A2": "COMPACTED_MOONFLOWER:4",
+      "A3": "COMPACTED_MOONFLOWER:4",
+      "B1": "COMPACTED_MOONFLOWER:4",
+      "B2": "NIGHT_CRYSTAL:1",
+      "B3": "COMPACTED_MOONFLOWER:4",
+      "C1": "COMPACTED_MOONFLOWER:4",
+      "C2": "COMPACTED_MOONFLOWER:4",
+      "C3": "COMPACTED_MOONFLOWER:4",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MOONLIGHT_CRYSTAL"
+    }
+  ]
+}

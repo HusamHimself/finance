@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Leech Belt",
+  "nbttag": "{ExtraAttributes:{id:\"LEECH_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/equipment/t2/leech_belt\",display:{Lore:[0:\"§7Rift Time: §a+80s\",1:\"§7Intelligence: §b+5\",2:\"§7Speed: §f+3\",3:\"\",4:\"§7Monster melee attacks reduce §a1 §7less\",5:\"§a Rift Time§7.\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§9§lRARE BELT\"],Name:\"§9Leech Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Rift Time: §a+80s",
+    "§7Intelligence: §b+5",
+    "§7Speed: §f+3",
+    "",
+    "§7Monster melee attacks reduce §a1 §7less",
+    "§a Rift Time§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§9§lRARE BELT"
+  ],
+  "internalname": "LEECH_BELT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Leech_Belt"
+  ],
+  "recipe": {
+    "A1": "LEECH_SUPREME_FRAGMENT:1",
+    "A2": "LEECH_SUPREME_FRAGMENT:1",
+    "A3": "LEECH_SUPREME_FRAGMENT:1",
+    "B1": "LEECH_SUPREME_FRAGMENT:1",
+    "B2": "SILKRIDER_SAFETY_BELT:1",
+    "B3": "LEECH_SUPREME_FRAGMENT:1",
+    "C1": "LEECH_SUPREME_FRAGMENT:1",
+    "C2": "LEECH_SUPREME_FRAGMENT:1",
+    "C3": "LEECH_SUPREME_FRAGMENT:1"
+  }
+}

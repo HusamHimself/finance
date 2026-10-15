@@ -1,0 +1,62 @@
+{
+	components: {
+		"minecraft:banner_patterns": [
+			{
+				color: "black",
+				pattern: "minecraft:base"
+			},
+			{
+				color: "magenta",
+				pattern: "minecraft:cross"
+			},
+			{
+				color: "purple",
+				pattern: "minecraft:curly_border"
+			},
+			{
+				color: "purple",
+				pattern: "minecraft:circle"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:flower"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:triangles_bottom"
+			},
+			{
+				color: "black",
+				pattern: "minecraft:triangles_top"
+			}
+		],
+		"minecraft:custom_data": {
+			id: "TOTEM_OF_CORRUPTION"
+		},
+		"minecraft:tooltip_display": {
+			hidden_components: [
+				"minecraft:painting/variant",
+				"minecraft:fireworks",
+				"minecraft:attribute_modifiers",
+				"minecraft:enchantments",
+				"minecraft:stored_enchantments",
+				"minecraft:trim",
+				"minecraft:charged_projectiles",
+				"minecraft:jukebox_playable",
+				"minecraft:map_id",
+				"minecraft:unbreakable",
+				"minecraft:written_book_content",
+				"minecraft:banner_patterns",
+				"minecraft:potion_contents",
+				"minecraft:dyed_color"
+			]
+		},
+		"minecraft:tooltip_style": "hypixel_skyblock:uncommon"
+	},
+	count: 1,
+	id: "minecraft:white_banner",
+	source: {
+		dataVersion: 4903,
+		modVersion: "Firmament 44.3.0-dev+mc26.2+g3fba44e7"
+	}
+}

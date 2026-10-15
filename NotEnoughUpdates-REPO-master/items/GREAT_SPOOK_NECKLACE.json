@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Great Spook Necklace",
+  "nbttag": "{ExtraAttributes:{edition:754,id:\"GREAT_SPOOK_NECKLACE\",year:2022},HideFlags:254,ItemModel:\"hypixel_skyblock:item/great_spook/great_spook_necklace\",display:{Lore:[0:\"§7Fear: §5+5\",1:\"\",2:\"§7Obtained during the §5Alchemist\",3:\"§7experiments!\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§5§lEPIC NECKLACE\"],Name:\"§5Great Spook Necklace\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Fear: §5+5",
+    "",
+    "§7Obtained during the §5Alchemist",
+    "§7experiments!",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC NECKLACE"
+  ],
+  "internalname": "GREAT_SPOOK_NECKLACE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Great_Spook_Necklace"
+  ]
+}

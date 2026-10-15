@@ -1,0 +1,36 @@
+{
+  "breakingPower": 9,
+  "blockStrength": 5600,
+  "name": "Umber",
+  "baseDrop": "UMBER",
+  "blocks189": [
+    {
+      "itemId": "minecraft:brown_terracotta",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:terracotta",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:red_sandstone",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:smooth_red_sandstone",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

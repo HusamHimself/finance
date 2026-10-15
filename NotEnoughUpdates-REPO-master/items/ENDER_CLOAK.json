@@ -1,0 +1,29 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Ender Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ENDER_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/combat_3/equipment/ender_cloak\",display:{Lore:[0:\"§7Health: §c+15\",1:\"§7Defense: §a+10\",2:\"\",3:\"§7All stats on this piece of equipment\",4:\"§7are multiplied by §52x §7while on the End\",5:\"§7Island!\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires §aCombat Skill 12§c.\",11:\"§8§l* §8Co-op Soulbound §8§l*\",12:\"§5§lEPIC CLOAK\"],Name:\"§5Ender Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+15",
+    "§7Defense: §a+10",
+    "",
+    "§7All stats on this piece of equipment",
+    "§7are multiplied by §52x §7while on the End",
+    "§7Island!",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 12§c.",
+    "§8§l* §8Co-op Soulbound §8§l*",
+    "§5§lEPIC CLOAK"
+  ],
+  "internalname": "ENDER_CLOAK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Ender_Cloak"
+  ]
+}

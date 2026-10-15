@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aKaleidoscopic Mineral",
+  "nbttag": "{ExtraAttributes:{id:\"SALMON_OPAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/salmon_opal\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Headstrong §7reforge\",4:\"§7when combined with a §cBow§7.\",5:\"\",6:\"§8§ohttps://en.wikipedia.org/wiki/Opal.\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §c Strength\",11:\" §9 Crit Chance\",12:\" §9 Crit Damage\",13:\"\",14:\"§9Headstrong Bonus\",15:\"§7Deal §c+8%  Damage §7when hitting a\",16:\"§7mob's head.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 15§c.\",21:\"\",22:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aKaleidoscopic Mineral\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Headstrong §7reforge",
+    "§7when combined with a §cBow§7.",
+    "",
+    "§8§ohttps://en.wikipedia.org/wiki/Opal.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    "",
+    "§9Headstrong Bonus",
+    "§7Deal §c+8%  Damage §7when hitting a",
+    "§7mob's head.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 15§c.",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "SALMON_OPAL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Kaleidoscopic_Mineral"
+  ]
+}

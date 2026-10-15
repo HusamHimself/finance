@@ -1,0 +1,10 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/riftwalker_bloodfiend.png"
+    }
+  ]
+}

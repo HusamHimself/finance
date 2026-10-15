@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Squeaky Toy",
+  "nbttag": "{ExtraAttributes:{id:\"SQUEAKY_TOY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/squeaky_toy\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Squeaky §7reforge when\",4:\"§7combined with §9Equipment§7.\",5:\"\",6:\"§8§oSo lifelike!\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §2 Bonus Pest Chance\",11:\" §6 Farming Fortune\",12:\"\",13:\"§9Squeaky Bonus\",14:\"§2 Pests §7spawn §a2.5% §7faster.\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 21§c.\",19:\"\",20:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Squeaky Toy\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Squeaky §7reforge when",
+    "§7combined with §9Equipment§7.",
+    "",
+    "§8§oSo lifelike!",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §2 Bonus Pest Chance",
+    " §6 Farming Fortune",
+    "",
+    "§9Squeaky Bonus",
+    "§2 Pests §7spawn §a2.5% §7faster.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 21§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "SQUEAKY_TOY",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Squeaky_Toy"
+  ]
+}

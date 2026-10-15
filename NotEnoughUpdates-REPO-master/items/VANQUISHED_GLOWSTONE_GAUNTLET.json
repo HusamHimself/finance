@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Vanquished Glowstone Gauntlet",
+  "nbttag": "{ExtraAttributes:{id:\"VANQUISHED_GLOWSTONE_GAUNTLET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/vanquished_glowstone_gauntlet\",display:{Lore:[0:\"§7Intelligence: §b+15\",1:\"§7Mining Fortune: §6+7\",2:\"\",3:\"§6Piece Bonus: Glowing\",4:\"§7Mine Glowstone to accumulate §b\",5:\"§bIntelligence§7.\",6:\"§7Piece Bonus: §b+0\",7:\"§7Next Upgrade: §b+1 §8(§a0§7/§c1,000§8)\",8:\"\",9:\"§eRight-click to equip!\",10:\"\",11:\"§8This item can be reforged!\",12:\"§4❣ §cRequires §aCombat Skill 22§c.\",13:\"§5§lEPIC GLOVES\"],Name:\"§5Vanquished Glowstone Gauntlet\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Intelligence: §b+15",
+    "§7Mining Fortune: §6+7",
+    "",
+    "§6Piece Bonus: Glowing",
+    "§7Mine Glowstone to accumulate §b",
+    "§bIntelligence§7.",
+    "§7Piece Bonus: §b+0",
+    "§7Next Upgrade: §b+1 §8(§a0§7/§c1,000§8)",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC GLOVES"
+  ],
+  "internalname": "VANQUISHED_GLOWSTONE_GAUNTLET",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Vanquished_Glowstone_Gauntlet"
+  ],
+  "recipe": {
+    "A1": "CORRUPTED_NETHER_STAR:1",
+    "A2": "CORRUPTED_NETHER_STAR:1",
+    "A3": "CORRUPTED_NETHER_STAR:1",
+    "B1": "ENCHANTED_GLOWSTONE:1",
+    "B2": "GLOWSTONE_GAUNTLET:1",
+    "B3": "ENCHANTED_GLOWSTONE:1",
+    "C1": "ENCHANTED_GLOWSTONE:1",
+    "C2": "",
+    "C3": "ENCHANTED_GLOWSTONE:1"
+  }
+}

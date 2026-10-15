@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Flaming Fist",
+  "nbttag": "{ExtraAttributes:{id:\"FLAMING_FIST\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/flaming_fist\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+20\",2:\"§7Strength: §c+10\",3:\"§7Crit Damage: §9+10%\",4:\"§7Ferocity: §c+1\",5:\"\",6:\"§7When equipped, melee attacks fire\",7:\"§7three §6flaming fists §7dealing §c10,000\",8:\"§7fire damage over time.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aCombat Skill 22§c.\",14:\"§5§lEPIC GLOVES\"],Name:\"§5Flaming Fist\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+30",
+    "§7Defense: §a+20",
+    "§7Strength: §c+10",
+    "§7Crit Damage: §9+10%",
+    "§7Ferocity: §c+1",
+    "",
+    "§7When equipped, melee attacks fire",
+    "§7three §6flaming fists §7dealing §c10,000",
+    "§7fire damage over time.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC GLOVES"
+  ],
+  "internalname": "FLAMING_FIST",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Flaming_Fist"
+  ]
+}

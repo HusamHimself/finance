@@ -1,0 +1,61 @@
+{
+  "breakingPower": 4,
+  "blockStrength": 50,
+  "name": "Hardstone",
+  "baseDrop": "HARD_STONE",
+  "blocks189": [
+    {
+      "itemId": "minecraft:stone",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:black_terracotta",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:gray_terracotta",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:light_gray_terracotta",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:brown_terracotta",
+      "onlyIn": [
+        "crystal_hollows"
+      ]
+    },
+    {
+      "itemId": "minecraft:cyan_terracotta",
+      "onlyIn": [
+        "crystal_hollows"
+      ]
+    },
+    {
+      "itemId": "minecraft:light_gray_wool",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:gray_wool",
+      "onlyIn": [
+        "crystal_hollows"
+      ]
+    }
+  ]
+}

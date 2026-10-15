@@ -1,0 +1,49 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Hashbrown",
+  "nbttag": "{ExtraAttributes:{id:\"HASHBROWN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/hashbrown\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Deep Fried §7reforge when\",4:\"§7combined with a §aFarming Tool§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Farming Fortune\",9:\"\",10:\"§9Deep Fried Bonus\",11:\"§7Find Seasonings §a25% §7more often\",12:\"§7during the §eFeast§7.\",13:\"\",14:\"§eRight-click to view rarity scaling!\",15:\"\",16:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Hashbrown\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Deep Fried §7reforge when",
+    "§7combined with a §aFarming Tool§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Farming Fortune",
+    "",
+    "§9Deep Fried Bonus",
+    "§7Find Seasonings §a25% §7more often",
+    "§7during the §eFeast§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "HASHBROWN",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Hashbrown"
+  ],
+  "recipes": [
+    {
+      "A1": "DEEPFRIES:2",
+      "A2": "DEEPFRIES:2",
+      "A3": "DEEPFRIES:2",
+      "B1": "SUNFLOWER_OIL:4",
+      "B2": "ENCHANTED_BAKED_POTATO:16",
+      "B3": "SUNFLOWER_OIL:4",
+      "C1": "DEEPFRIES:2",
+      "C2": "DEEPFRIES:2",
+      "C3": "DEEPFRIES:2",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "HASHBROWN"
+    }
+  ]
+}

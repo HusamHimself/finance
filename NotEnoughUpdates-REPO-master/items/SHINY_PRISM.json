@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Shiny Prism",
+  "nbttag": "{ExtraAttributes:{id:\"SHINY_PRISM\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/shiny_prism\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Glistening §7reforge when\",4:\"§7combined with §9Equipment§7.\",5:\"\",6:\"§8§oNo matter the angle you look at it,\",7:\"§8§oyou still won't find love.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §f True Defense\",12:\" §b Intelligence\",13:\"\",14:\"§eRight-click to view rarity scaling!\",15:\"\",16:\"§4❣ §cRequires §aMining Skill 24§c.\",17:\"\",18:\"§9§lRARE REFORGE STONE\"],Name:\"§9Shiny Prism\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Glistening §7reforge when",
+    "§7combined with §9Equipment§7.",
+    "",
+    "§8§oNo matter the angle you look at it,",
+    "§8§oyou still won't find love.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §f True Defense",
+    " §b Intelligence",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "SHINY_PRISM",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shiny_Prism"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_GLOWSTONE_DUST:10",
+    "A2": "ENCHANTED_GLOWSTONE_DUST:10",
+    "A3": "ENCHANTED_GLOWSTONE_DUST:10",
+    "B1": "ENCHANTED_GLOWSTONE_DUST:10",
+    "B2": "GAZING_PEARL:10",
+    "B3": "ENCHANTED_GLOWSTONE_DUST:10",
+    "C1": "ENCHANTED_GLOWSTONE_DUST:10",
+    "C2": "ENCHANTED_GLOWSTONE_DUST:10",
+    "C3": "ENCHANTED_GLOWSTONE_DUST:10"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/executive_viper.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "IRON_PICKAXE"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Knuckle Sandwich",
+  "nbttag": "{ExtraAttributes:{id:\"KNUCKLE_SANDWICH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/knuckle_sandwich\",display:{Lore:[0:\"§7Increases the melee damage of your\",1:\"§7fists by §a500%§7!\",2:\"\",3:\"§8§oNot recommended for breakfast,\",4:\"§8§olunch, or dinner.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Knuckle Sandwich\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Increases the melee damage of your",
+    "§7fists by §a500%§7!",
+    "",
+    "§8§oNot recommended for breakfast,",
+    "§8§olunch, or dinner.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY GLOVES"
+  ],
+  "internalname": "KNUCKLE_SANDWICH",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Knuckle_Sandwich"
+  ]
+}

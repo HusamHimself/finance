@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Sponge Belt",
+  "nbttag": "{ExtraAttributes:{id:\"SPONGE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/collections/sponge/sponge_belt\",display:{Lore:[0:\"§7Fishing Speed: §b+2\",1:\"§7Trophy Chance: §6+1%\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§9§lRARE BELT\"],Name:\"§9Sponge Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Fishing Speed: §b+2",
+    "§7Trophy Chance: §6+1%",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§9§lRARE BELT"
+  ],
+  "internalname": "SPONGE_BELT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Sponge V",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Sponge_Belt"
+  ],
+  "recipe": {
+    "A1": "SPONGE:16",
+    "A2": "",
+    "A3": "SPONGE:16",
+    "B1": "SPONGE:16",
+    "B2": "",
+    "B3": "SPONGE:16",
+    "C1": "ENCHANTED_SPONGE:2",
+    "C2": "ENCHANTED_SPONGE:2",
+    "C3": "ENCHANTED_SPONGE:2"
+  }
+}

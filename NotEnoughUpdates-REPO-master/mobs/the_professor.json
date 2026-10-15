@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/the_professor.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "BOOK_AND_QUILL"
+    }
+  ]
+}

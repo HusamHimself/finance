@@ -1,0 +1,28 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§cRed Belt",
+  "nbttag": "{ExtraAttributes:{id:\"RED_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/events/april_fools/red_belt\",display:{Lore:[0:\"§7Health: §c+0.1\",1:\"§7Defense: §a+0.1\",2:\"\",3:\"§7Reduces damage taken by §c0%§7.\",4:\"\",5:\"§7Obtained from the §dA Honk and Seek\",6:\"§dAdventure §7event during April Fools.\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item §8§lCANNOT§8 be reforged!\",11:\"§c§lSPECIAL BELT\"],Name:\"§cRed Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+0.1",
+    "§7Defense: §a+0.1",
+    "",
+    "§7Reduces damage taken by §c0%§7.",
+    "",
+    "§7Obtained from the §dA Honk and Seek",
+    "§dAdventure §7event during April Fools.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item §8§lCANNOT§8 be reforged!",
+    "§c§lSPECIAL BELT"
+  ],
+  "internalname": "RED_BELT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Red_Belt"
+  ]
+}

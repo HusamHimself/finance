@@ -1,0 +1,22 @@
+{
+  "breakingPower": 9,
+  "blockStrength": 5600,
+  "name": "Tungsten",
+  "baseDrop": "TUNGSTEN",
+  "blocks189": [
+    {
+      "itemId": "minecraft:cobblestone",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:clay",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

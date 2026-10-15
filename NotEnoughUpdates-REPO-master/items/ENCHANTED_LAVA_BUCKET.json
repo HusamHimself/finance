@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:lava_bucket",
+  "displayname": "§5Enchanted Lava Bucket",
+  "nbttag": "{ExtraAttributes:{id:\"ENCHANTED_LAVA_BUCKET\"},HideFlags:254,ItemModel:\"minecraft:lava_bucket\",display:{Lore:[0:\"§8Minion Fuel\",1:\"\",2:\"§7Increases the speed of your minion\",3:\"§7by §a25%§7. Unlimited Duration!\",4:\"\",5:\"§5§lEPIC\"],Name:\"§5Enchanted Lava Bucket\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Minion Fuel",
+    "",
+    "§7Increases the speed of your minion",
+    "§7by §a25%§7. Unlimited Duration!",
+    "",
+    "§5§lEPIC"
+  ],
+  "internalname": "ENCHANTED_LAVA_BUCKET",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Coal VIII",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Enchanted_Lava_Bucket"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "",
+    "A3": "",
+    "B1": "ENCHANTED_IRON:1",
+    "B2": "ENCHANTED_COAL_BLOCK:2",
+    "B3": "ENCHANTED_IRON:1",
+    "C1": "",
+    "C2": "ENCHANTED_IRON:1",
+    "C3": ""
+  }
+}

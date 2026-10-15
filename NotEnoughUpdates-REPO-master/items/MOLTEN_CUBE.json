@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Molten Cube",
+  "nbttag": "{ExtraAttributes:{id:\"MOLTEN_CUBE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/molten_cube\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Cubic §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oThe center of Magma Cubes is the\",7:\"§8§ohottest part...also the hardest. Giant\",8:\"§8§oones can even create stones like\",9:\"§8§othis one.\",10:\"\",11:\"§7Grants the following stats that scale\",12:\"§7with the item's rarity:\",13:\" §c Health\",14:\" §c Strength\",15:\"\",16:\"§9Cubic Bonus\",17:\"§7Take §c-2%  Damage §7from §4 Infernal\",18:\"§7mobs.\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 20§c.\",23:\"\",24:\"§9§lRARE REFORGE STONE\"],Name:\"§9Molten Cube\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Cubic §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oThe center of Magma Cubes is the",
+    "§8§ohottest part...also the hardest. Giant",
+    "§8§oones can even create stones like",
+    "§8§othis one.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §c Strength",
+    "",
+    "§9Cubic Bonus",
+    "§7Take §c-2%  Damage §7from §4 Infernal",
+    "§7mobs.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 20§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "MOLTEN_CUBE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Molten_Cube"
+  ]
+}

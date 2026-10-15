@@ -1,0 +1,25 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Shen's Ringalia",
+  "nbttag": "{ExtraAttributes:{id:\"SHENS_RINGALIA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/zones/mountaintop/misc/shens_ringalia\",display:{Lore:[0:\"§7Rift Time: §a+50s\",1:\"\",2:\"§7§oNo matter the place or when, anyone\",3:\"§7§omarked by Shen will gain control.\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8§l* §8Soulbound §8§l*\",8:\"§6§lLEGENDARY BRACELET\"],Name:\"§6Shen's Ringalia\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Rift Time: §a+50s",
+    "",
+    "§7§oNo matter the place or when, anyone",
+    "§7§omarked by Shen will gain control.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8§l* §8Soulbound §8§l*",
+    "§6§lLEGENDARY BRACELET"
+  ],
+  "internalname": "SHENS_RINGALIA",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shen%27s_Ringalia"
+  ]
+}

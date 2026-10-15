@@ -1,0 +1,38 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Suspicious Vial",
+  "nbttag": "{ExtraAttributes:{id:\"SUSPICIOUS_VIAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/suspicious_vial\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Suspicious §7reforge when\",4:\"§7combined with a §cMelee Weapon§7.\",5:\"\",6:\"§8§oSmells like fish.\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §9 Crit Chance\",11:\" §9 Crit Damage\",12:\"\",13:\"§9Suspicious Bonus\",14:\"§7Adds §c+15 Damage §7to this item's\",15:\"§7base stats.\",16:\"\",17:\"§eRight-click to view rarity scaling!\",18:\"\",19:\"§4❣ §cRequires §aMining Skill 23§c.\",20:\"\",21:\"§9§lRARE REFORGE STONE\"],Name:\"§9Suspicious Vial\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Suspicious §7reforge when",
+    "§7combined with a §cMelee Weapon§7.",
+    "",
+    "§8§oSmells like fish.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    "",
+    "§9Suspicious Bonus",
+    "§7Adds §c+15 Damage §7to this item's",
+    "§7base stats.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 23§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "SUSPICIOUS_VIAL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Suspicious_Vial"
+  ]
+}

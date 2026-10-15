@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/matcho.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "MATCH_STICKS"
+    }
+  ]
+}

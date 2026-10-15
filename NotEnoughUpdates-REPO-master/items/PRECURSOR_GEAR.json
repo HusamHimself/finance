@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Precursor Gear",
+  "nbttag": "{ExtraAttributes:{id:\"PRECURSOR_GEAR\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/precursor_gear\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Ancient §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Health\",9:\" §a Defense\",10:\" §c Strength\",11:\" §9 Crit Chance\",12:\" §b Intelligence\",13:\"\",14:\"§9Ancient Bonus\",15:\"§7Grants §9+1 Crit Damage §7per\",16:\"§cCatacombs §7skill level you have.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 30§c.\",21:\"\",22:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Precursor Gear\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Ancient §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §b Intelligence",
+    "",
+    "§9Ancient Bonus",
+    "§7Grants §9+1 Crit Damage §7per",
+    "§cCatacombs §7skill level you have.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 30§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "PRECURSOR_GEAR",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Precursor_Gear"
+  ]
+}

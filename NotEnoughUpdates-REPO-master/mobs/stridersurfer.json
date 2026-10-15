@@ -1,0 +1,16 @@
+{
+  "entity": "Strider",
+  "entitytype": "minecraft:strider",
+  "modifiers": [
+    {
+      "type": "riding",
+      "entity": "Drowned",
+      "modifiers": [
+        {
+          "type": "age",
+          "baby": "true"
+        }
+      ]
+    }
+  ]
+}

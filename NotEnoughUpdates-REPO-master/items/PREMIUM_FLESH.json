@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aPremium Flesh",
+  "nbttag": "{ExtraAttributes:{id:\"PREMIUM_FLESH\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/premium_flesh\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Undead §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oThe Zombie it came from was\",7:\"§8§oprobably a great warrior before its\",8:\"§8§odeath.\",9:\"\",10:\"§7Grants the following stats that scale\",11:\"§7with the item's rarity:\",12:\" §c Health\",13:\" §a Defense\",14:\" §c Strength\",15:\" §e Attack Speed\",16:\"\",17:\"§9Undead Bonus\",18:\"§7Take §c-2%  Damage §7from §2 Undead\",19:\"§7mobs.\",20:\"\",21:\"§eRight-click to view rarity scaling!\",22:\"\",23:\"§4❣ §cRequires §aMining Skill 16§c.\",24:\"\",25:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aPremium Flesh\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Undead §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oThe Zombie it came from was",
+    "§8§oprobably a great warrior before its",
+    "§8§odeath.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §c Strength",
+    " §e Attack Speed",
+    "",
+    "§9Undead Bonus",
+    "§7Take §c-2%  Damage §7from §2 Undead",
+    "§7mobs.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 16§c.",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "PREMIUM_FLESH",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Premium_Flesh"
+  ]
+}

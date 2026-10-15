@@ -1,0 +1,24 @@
+{
+  "breakingPower": 7,
+  "blockStrength": 3000,
+  "name": "Amber Gemstone",
+  "baseDrop": "ROUGH_AMBER_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:orange_stained_glass",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:orange_stained_glass_pane",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Gleaming Crystal",
+  "nbttag": "{ExtraAttributes:{id:\"GLEAMING_CRYSTAL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/gleaming_crystal\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Lustrous §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Mining Speed\",9:\" §6 Mining Fortune\",10:\"\",11:\"§9Lustrous Bonus\",12:\"§7Grants §e+25 Mining Spread §7while\",13:\"§bMayor Cole's §6Mining Fiesta §7perk is\",14:\"§7active.\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 24§c.\",19:\"\",20:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Gleaming Crystal\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Lustrous §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Speed",
+    " §6 Mining Fortune",
+    "",
+    "§9Lustrous Bonus",
+    "§7Grants §e+25 Mining Spread §7while",
+    "§bMayor Cole's §6Mining Fiesta §7perk is",
+    "§7active.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "GLEAMING_CRYSTAL",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 4",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Gleaming_Crystal"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "GLOSSY_GEMSTONE:32.0",
+        "REFINED_MITHRIL:1.0",
+        "REFINED_DIAMOND:2.0"
+      ],
+      "count": 1.0,
+      "overrideOutputId": "GLEAMING_CRYSTAL",
+      "duration": 21600
+    }
+  ]
+}

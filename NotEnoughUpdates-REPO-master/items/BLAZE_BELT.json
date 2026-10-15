@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Blaze Belt",
+  "nbttag": "{ExtraAttributes:{id:\"BLAZE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/blaze_belt\",display:{Lore:[0:\"§7Defense: §a+7\",1:\"§7Strength: §c+7\",2:\"\",3:\"§6Ability: Blazing Palisade \",4:\"§7Gain a §a10% §7chance to reflect\",5:\"§cFireballs§7.\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires §aCombat Skill 22§c.\",11:\"§9§lRARE BELT\"],Name:\"§9Blaze Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Defense: §a+7",
+    "§7Strength: §c+7",
+    "",
+    "§6Ability: Blazing Palisade ",
+    "§7Gain a §a10% §7chance to reflect",
+    "§cFireballs§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§9§lRARE BELT"
+  ],
+  "internalname": "BLAZE_BELT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Blaze_Belt"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "",
+    "A3": "",
+    "B1": "ENCHANTED_BLAZE_POWDER:3",
+    "B2": "",
+    "B3": "ENCHANTED_BLAZE_POWDER:3",
+    "C1": "ENCHANTED_BLAZE_POWDER:3",
+    "C2": "BLAZE_ASHES:25",
+    "C3": "ENCHANTED_BLAZE_POWDER:3"
+  }
+}

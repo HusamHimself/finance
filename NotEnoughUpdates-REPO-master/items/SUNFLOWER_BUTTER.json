@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Sunflower Butter",
+  "nbttag": "{ExtraAttributes:{id:\"SUNFLOWER_BUTTER\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/power_stones/sunflower_butter\",display:{Lore:[0:\"§7Combine §ax9 §7of this item at the\",1:\"§6Thaumaturgist §7in the §bHub §7to unlock the\",2:\"§aButtery §7power.\",3:\"\",4:\"§7At §6250 Accessory Power§7:\",5:\"§e+20.83 Attack Speed\",6:\"§f+23.14 Speed\",7:\"\",8:\"§7Unique Power Bonus:\",9:\"§e+5 Attack Speed\",10:\"\",11:\"§4❣ §cRequires §aCombat Skill 20§c.\",12:\"\",13:\"§9§lRARE POWER STONE\"],Name:\"§9Sunflower Butter\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Combine §ax9 §7of this item at the",
+    "§6Thaumaturgist §7in the §bHub §7to unlock the",
+    "§aButtery §7power.",
+    "",
+    "§7At §6250 Accessory Power§7:",
+    "§e+20.83 Attack Speed",
+    "§f+23.14 Speed",
+    "",
+    "§7Unique Power Bonus:",
+    "§e+5 Attack Speed",
+    "",
+    "§4❣ §cRequires §aCombat Skill 20§c.",
+    "",
+    "§9§lRARE POWER STONE"
+  ],
+  "internalname": "SUNFLOWER_BUTTER",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Sunflower_Butter"
+  ],
+  "recipes": [
+    {
+      "A1": "ENCHANTED_BLAZE_POWDER:4",
+      "A2": "SALTED_SUNFLOWER_SEEDS:4",
+      "A3": "ENCHANTED_PACKED_ICE:4",
+      "B1": "ENCHANTED_BLAZE_POWDER:4",
+      "B2": "SALTED_SUNFLOWER_SEEDS:4",
+      "B3": "ENCHANTED_PACKED_ICE:4",
+      "C1": "",
+      "C2": "BOWL:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SUNFLOWER_BUTTER"
+    }
+  ]
+}

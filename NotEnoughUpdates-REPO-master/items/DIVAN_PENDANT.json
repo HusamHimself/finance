@@ -1,0 +1,48 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Pendant of Divan",
+  "nbttag": "{ExtraAttributes:{id:\"DIVAN_PENDANT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/uncategorized/divan_pendant\",display:{Lore:[0:\"§7Mining Speed: §6+100\",1:\"§7Mining Fortune: §6+25\",2:\"§7Cold Resistance: §b+10\",3:\"§7Gemstones: §8[] []\",4:\"\",5:\"§8Tiered Bonus: Legacy (0/1)\",6:\"§7Grants §5+0.25 Pristine §7and §e+2.5\",7:\"§eGemstone Spread §7while inside the\",8:\"§bGlacite Mineshafts§7.\",9:\"\",10:\"§8§oAn item treasured by the greatest\",11:\"§8§oDwarf who ever lived. Why would he\",12:\"§8§oleave it behind?\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§4❣ §cRequires §5Heart of the Mountain Tier 10§c.\",18:\"§6§lLEGENDARY NECKLACE\"],Name:\"§6Pendant of Divan\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Mining Speed: §6+100",
+    "§7Mining Fortune: §6+25",
+    "§7Cold Resistance: §b+10",
+    "§7Gemstones: §8[] []",
+    "",
+    "§8Tiered Bonus: Legacy (0/1)",
+    "§7Grants §5+0.25 Pristine §7and §e+2.5",
+    "§eGemstone Spread §7while inside the",
+    "§bGlacite Mineshafts§7.",
+    "",
+    "§8§oAn item treasured by the greatest",
+    "§8§oDwarf who ever lived. Why would he",
+    "§8§oleave it behind?",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §5Heart of the Mountain Tier 10§c.",
+    "§6§lLEGENDARY NECKLACE"
+  ],
+  "internalname": "DIVAN_PENDANT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 10",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Pendant_of_Divan"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "PERFECT_PLATE:1.0",
+        "DIVAN_FRAGMENT:10.0",
+        "SHATTERED_PENDANT:1.0"
+      ],
+      "count": 1.0,
+      "overrideOutputId": "DIVAN_PENDANT",
+      "duration": 604800
+    }
+  ]
+}

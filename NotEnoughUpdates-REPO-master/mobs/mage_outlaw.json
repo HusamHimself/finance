@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/mage_outlaw.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "NETHER_STAR"
+    }
+  ]
+}

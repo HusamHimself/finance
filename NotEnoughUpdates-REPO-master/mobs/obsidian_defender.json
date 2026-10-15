@@ -1,0 +1,11 @@
+{
+  "entity": "WitherSkeleton",
+  "entitytype": "minecraft:wither_skeleton",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "helmet": "OBSIDIAN",
+      "chestplate": "OBSIDIAN_CHESTPLATE"
+    }
+  ] 
+}

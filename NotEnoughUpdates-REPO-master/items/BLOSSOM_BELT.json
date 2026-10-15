@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Blossom Belt",
+  "nbttag": "{ExtraAttributes:{id:\"BLOSSOM_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/garden/equipment/blossom/blossom_belt\",display:{Lore:[0:\"§7Health: §c+15\",1:\"§7Farming Fortune: §6+7\",2:\"\",3:\"§6Piece Bonus: Florist\",4:\"§7Complete §aGarden Visitor Offers §7to\",5:\"§7gain §6 Farming Fortune§7.\",6:\"\",7:\"§7Piece Bonus: §6+0\",8:\"§7Next Upgrade: §6+1.5 §8(§a0§7/§c1§8)\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aGarden Level 7§c.\",14:\"§4❣ §cRequires §aFarming Skill 20§c.\",15:\"§5§lEPIC BELT\"],Name:\"§5Blossom Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+15",
+    "§7Farming Fortune: §6+7",
+    "",
+    "§6Piece Bonus: Florist",
+    "§7Complete §aGarden Visitor Offers §7to",
+    "§7gain §6 Farming Fortune§7.",
+    "",
+    "§7Piece Bonus: §6+0",
+    "§7Next Upgrade: §6+1.5 §8(§a0§7/§c1§8)",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aGarden Level 7§c.",
+    "§4❣ §cRequires §aFarming Skill 20§c.",
+    "§5§lEPIC BELT"
+  ],
+  "internalname": "BLOSSOM_BELT",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Blossom_Belt"
+  ]
+}

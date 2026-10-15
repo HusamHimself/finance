@@ -1,0 +1,34 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Deep Sea Orb",
+  "nbttag": "{ExtraAttributes:{id:\"DEEP_SEA_ORB\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/deep_sea_orb\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Submerged §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oThe smell of the deep sea attracts\",7:\"§8§osea monsters.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §9 Crit Chance\",12:\" §b Fishing Speed\",13:\" §3 Sea Creature Chance\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Deep Sea Orb\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Submerged §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oThe smell of the deep sea attracts",
+    "§8§osea monsters.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §9 Crit Chance",
+    " §b Fishing Speed",
+    " §3 Sea Creature Chance",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "DEEP_SEA_ORB",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Deep_Sea_Orb"
+  ]
+}

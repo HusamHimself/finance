@@ -1,0 +1,58 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Geometric Oddity",
+  "nbttag": "{ExtraAttributes:{id:\"GEOMETRIC_ODDITY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/geometric_oddity\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Geometric §7reforge when\",4:\"§7combined with §aFroggles§7, §9Silver\",5:\"§9Froggles§7, §5Golden Froggles§7, and\",6:\"§6Diamond Froggles§7.\",7:\"\",8:\"§8§oA man, who knows not where he is\",9:\"§8§onor where he has been, reaches into\",10:\"§8§ohis pocket.\",11:\"\",12:\"§7Grants the following stats that scale\",13:\"§7with the item's rarity:\",14:\" §b Fishing Speed\",15:\" §6 Trophy Chance\",16:\"\",17:\"§9Geometric Bonus\",18:\"§7Gain a §a+5%§7 chance to catch a bonus\",19:\"§6Trophy §7while fishing in a §dWormhole§f.\",20:\"\",21:\"§eRight-click to view rarity scaling!\",22:\"\",23:\"§4❣ §cRequires §aMining Skill 15§c.\",24:\"\",25:\"§9§lRARE REFORGE STONE\"],Name:\"§9Geometric Oddity\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Geometric §7reforge when",
+    "§7combined with §aFroggles§7, §9Silver",
+    "§9Froggles§7, §5Golden Froggles§7, and",
+    "§6Diamond Froggles§7.",
+    "",
+    "§8§oA man, who knows not where he is",
+    "§8§onor where he has been, reaches into",
+    "§8§ohis pocket.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §b Fishing Speed",
+    " §6 Trophy Chance",
+    "",
+    "§9Geometric Bonus",
+    "§7Gain a §a+5%§7 chance to catch a bonus",
+    "§6Trophy §7while fishing in a §dWormhole§f.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 15§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "GEOMETRIC_ODDITY",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Geometric_Oddity"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "INK_SACK:32",
+      "A3": "",
+      "B1": "RUSTY_COIN:16",
+      "B2": "REVERSE_REFORGE_STONE_CORE:1",
+      "B3": "FROGCOIN:8",
+      "C1": "",
+      "C2": "TREASURE_BAIT:64",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "GEOMETRIC_ODDITY"
+    }
+  ]
+}

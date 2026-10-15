@@ -1,0 +1,24 @@
+{
+  "itemid": "minecraft:coal",
+  "displayname": "§9Foul Flesh",
+  "nbttag": "{ExtraAttributes:{id:\"FOUL_FLESH\"},HideFlags:254,ItemModel:\"minecraft:charcoal\",display:{Lore:[0:\"§8Minion Fuel\",1:\"§8Brewing Ingredient\",2:\"\",3:\"§7Increases the speed of\",4:\"§7your minion by §a90%§7 for 5\",5:\"§7hours!\",6:\"\",7:\"§9§lRARE\"],Name:\"§9Foul Flesh\"}}",
+  "damage": 1,
+  "lore": [
+    "§8Minion Fuel",
+    "§8Brewing Ingredient",
+    "",
+    "§7Increases the speed of",
+    "§7your minion by §a90%§7 for 5",
+    "§7hours!",
+    "",
+    "§9§lRARE"
+  ],
+  "internalname": "FOUL_FLESH",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g3fba44e7",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Foul_Flesh"
+  ]
+}

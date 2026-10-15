@@ -1,0 +1,26 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§fPrehistoric Egg",
+  "nbttag": "{ExtraAttributes:{blocks_walked:1,id:\"PREHISTORIC_EGG\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/prehistoric_egg\",display:{Lore:[0:\"§7After §bwalking §7a certain amount of blocks, has a §achance\",1:\"§7to spawn an §fArmadillo§7!\",2:\"\",3:\"§b4,000§7: §a50% §7for a §fCommon Armadillo!\",4:\"§b10,000§7: §a50% §7for an §aUncommon Armadillo!\",5:\"§b20,000§7: §a50% §7for a §9Rare Armadillo!\",6:\"§b40,000§7: §a50% §7for an §5Epic Armadillo!\",7:\"§b100,000§7: §a100% §7for a §6Legendary Armadillo!\",8:\"\",9:\"§f§lCOMMON\"],Name:\"§fPrehistoric Egg\"}}",
+  "damage": 0,
+  "lore": [
+    "§7After §bwalking §7a certain amount of blocks, has a §achance",
+    "§7to spawn an §fArmadillo§7!",
+    "",
+    "§b4,000§7: §a50% §7for a §fCommon Armadillo!",
+    "§b10,000§7: §a50% §7for an §aUncommon Armadillo!",
+    "§b20,000§7: §a50% §7for a §9Rare Armadillo!",
+    "§b40,000§7: §a50% §7for an §5Epic Armadillo!",
+    "§b100,000§7: §a100% §7for a §6Legendary Armadillo!",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "PREHISTORIC_EGG",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+g955aae4",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Prehistoric_Egg"
+  ]
+}

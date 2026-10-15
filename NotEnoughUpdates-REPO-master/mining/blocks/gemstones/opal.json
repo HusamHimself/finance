@@ -1,0 +1,22 @@
+{
+  "breakingPower": 7,
+  "blockStrength": 3000,
+  "name": "Opal Gemstone",
+  "baseDrop": "ROUGH_OPAL_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:white_stained_glass",
+      "onlyIn": [
+        "mineshaft",
+        "crimson_isle"
+      ]
+    },
+    {
+      "itemId": "minecraft:white_stained_glass_pane",
+      "onlyIn": [
+        "mineshaft",
+        "crimson_isle"
+      ]
+    }
+  ]
+}

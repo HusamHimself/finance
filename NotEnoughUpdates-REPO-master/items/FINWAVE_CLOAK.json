@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Finwave Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"FINWAVE_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/fishing_equipment/finwave_cloak\",display:{Lore:[0:\"§7Health: §c+15\",1:\"§7Health Regen: §c+1\",2:\"§7Fishing Speed: §b+10\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§5§lEPIC CLOAK\"],Name:\"§5Finwave Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+15",
+    "§7Health Regen: §c+1",
+    "§7Fishing Speed: §b+10",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC CLOAK"
+  ],
+  "internalname": "FINWAVE_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Finwave_Cloak"
+  ],
+  "recipe": {
+    "A1": "GREAT_WHITE_TOOTH_MEAL:1",
+    "A2": "ICHTHYIC_CLOAK:1",
+    "A3": "GREAT_WHITE_TOOTH_MEAL:1",
+    "B1": "TIGER_SHARK_TOOTH:6",
+    "B2": "",
+    "B3": "TIGER_SHARK_TOOTH:6",
+    "C1": "TIGER_SHARK_TOOTH:6",
+    "C2": "",
+    "C3": "TIGER_SHARK_TOOTH:6"
+  }
+}

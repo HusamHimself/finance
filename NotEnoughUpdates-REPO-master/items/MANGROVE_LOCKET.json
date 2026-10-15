@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Mangrove Locket",
+  "nbttag": "{ExtraAttributes:{id:\"MANGROVE_LOCKET\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/equipment/mangrove/mangrove_locket\",display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§eRight-click to equip!\",4:\"\",5:\"§8This item can be reforged!\",6:\"§4❣ §cRequires §aForaging Skill 12§c.\",7:\"§9§lRARE NECKLACE\"],Name:\"§9Mangrove Locket\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Sweep: §2+1",
+    "§7Foraging Fortune: §6+5",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aForaging Skill 12§c.",
+    "§9§lRARE NECKLACE"
+  ],
+  "internalname": "MANGROVE_LOCKET",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Mangrove_Locket"
+  ],
+  "recipes": [
+    {
+      "A1": "ENCHANTED_MANGROVE_LOG:5",
+      "A2": "",
+      "A3": "ENCHANTED_MANGROVE_LOG:5",
+      "B1": "ENCHANTED_MANGROVE_LOG:5",
+      "B2": "",
+      "B3": "ENCHANTED_MANGROVE_LOG:5",
+      "C1": "",
+      "C2": "SEA_LUMIES:32",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MANGROVE_LOCKET"
+    }
+  ]
+}

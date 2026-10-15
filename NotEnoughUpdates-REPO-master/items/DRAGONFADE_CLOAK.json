@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Dragonfade Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"DRAGONFADE_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/combat_3/equipment/dragonfade_cloak\",display:{Lore:[0:\"§7Health: §c+30\",1:\"§7Defense: §a+5\",2:\"§7Strength: §c+5\",3:\"\",4:\"§7All stats on this piece of equipment\",5:\"§7are multiplied by §53x §7while on §dThe End§7!\",6:\"\",7:\"§7Multiplies damage dealt to §5Dragons\",8:\"§7by §c1.01x§7.\",9:\"\",10:\"§eRight-click to equip!\",11:\"\",12:\"§8This item can be reforged!\",13:\"§4❣ §cRequires §aCombat Skill 15§c.\",14:\"§5§lEPIC CLOAK\"],Name:\"§5Dragonfade Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+30",
+    "§7Defense: §a+5",
+    "§7Strength: §c+5",
+    "",
+    "§7All stats on this piece of equipment",
+    "§7are multiplied by §53x §7while on §dThe End§7!",
+    "",
+    "§7Multiplies damage dealt to §5Dragons",
+    "§7by §c1.01x§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 15§c.",
+    "§5§lEPIC CLOAK"
+  ],
+  "internalname": "DRAGONFADE_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Dragonfade_Cloak"
+  ],
+  "recipe": {
+    "A1": "RITUAL_RESIDUE:1",
+    "A2": "RITUAL_RESIDUE:1",
+    "A3": "RITUAL_RESIDUE:1",
+    "B1": "MITE_GEL:16",
+    "B2": "ABSOLUTE_ENDER_PEARL:16",
+    "B3": "MITE_GEL:16",
+    "C1": "MITE_GEL:16",
+    "C2": "ABSOLUTE_ENDER_PEARL:16",
+    "C3": "MITE_GEL:16"
+  }
+}

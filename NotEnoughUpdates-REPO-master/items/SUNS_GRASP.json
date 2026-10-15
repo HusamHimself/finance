@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Sun's Grasp",
+  "nbttag": "{ExtraAttributes:{id:\"SUNS_GRASP\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/finnegan/suns_grasp\",display:{Lore:[0:\"§7Farming Fortune: §6+12\",1:\"\",2:\"§7While breaking crops with your fist:\",3:\"  §7Grants §ex2  Overbloom\",4:\"  §7Capped at §6500 Farming Fortune\",5:\"  §7Crops automatically replanted\",6:\"\",7:\"§8§oA farmer of legend, said to be born\",8:\"§8§oof the sun’s grace itself. With bare\",9:\"§8§ohands he cultivated the earth, and\",10:\"§8§ofrom his harvests baked humble\",11:\"§8§obread bowls, gifted only to those\",12:\"§8§oheld close to his heart.\",13:\"\",14:\"§eRight-click to equip!\",15:\"\",16:\"§8This item can be reforged!\",17:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Sun's Grasp\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Farming Fortune: §6+12",
+    "",
+    "§7While breaking crops with your fist:",
+    "  §7Grants §ex2  Overbloom",
+    "  §7Capped at §6500 Farming Fortune",
+    "  §7Crops automatically replanted",
+    "",
+    "§8§oA farmer of legend, said to be born",
+    "§8§oof the sun’s grace itself. With bare",
+    "§8§ohands he cultivated the earth, and",
+    "§8§ofrom his harvests baked humble",
+    "§8§obread bowls, gifted only to those",
+    "§8§oheld close to his heart.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY GLOVES"
+  ],
+  "internalname": "SUNS_GRASP",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Sun%27s_Grasp"
+  ],
+  "recipes": [
+    {
+      "A1": "GODSEED:1",
+      "A2": "GODSEED:1",
+      "A3": "GODSEED:1",
+      "B1": "COMPACTED_SUNFLOWER:64",
+      "B2": "RAY_OF_HELIOS:1",
+      "B3": "COMPACTED_SUNFLOWER:64",
+      "C1": "ALL_IN_ALOE:1",
+      "C2": "ALL_IN_ALOE:1",
+      "C3": "ALL_IN_ALOE:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SUNS_GRASP"
+    }
+  ]
+}

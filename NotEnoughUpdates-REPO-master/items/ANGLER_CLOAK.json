@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§fAngler Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"ANGLER_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/angler/angler_cloak\",display:{Lore:[0:\"§7Fishing Speed: §b+1\",1:\"§7Sea Creature Chance: §3+0.5%\",2:\"\",3:\"§8Tiered Bonus: Depth Champion (0/8)\",4:\"§7Reduces the damage taken from §3Sea\",5:\"§3Creatures §7by §a3%§7.\",6:\"\",7:\"§8Tiered Bonus: Deepness Within (0/4)\",8:\"§7Gain §c6❤ §7per Fishing level.\",9:\"§7Fishing: §eLevel 0\",10:\"\",11:\"§eRight-click to equip!\",12:\"\",13:\"§8This item can be reforged!\",14:\"§f§lCOMMON CLOAK\"],Name:\"§fAngler Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Fishing Speed: §b+1",
+    "§7Sea Creature Chance: §3+0.5%",
+    "",
+    "§8Tiered Bonus: Depth Champion (0/8)",
+    "§7Reduces the damage taken from §3Sea",
+    "§3Creatures §7by §a3%§7.",
+    "",
+    "§8Tiered Bonus: Deepness Within (0/4)",
+    "§7Gain §c6❤ §7per Fishing level.",
+    "§7Fishing: §eLevel 0",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§f§lCOMMON CLOAK"
+  ],
+  "internalname": "ANGLER_CLOAK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Angler_Cloak"
+  ]
+}

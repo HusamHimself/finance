@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Bulky Stone",
+  "nbttag": "{ExtraAttributes:{id:\"BULKY_STONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/bulky_stone\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Bulky §7reforge when\",4:\"§7combined with a §cMelee Weapon§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Health\",9:\" §a Defense\",10:\"\",11:\"§eRight-click to view rarity scaling!\",12:\"\",13:\"§4❣ §cRequires §aMining Skill 25§c.\",14:\"\",15:\"§9§lRARE REFORGE STONE\"],Name:\"§9Bulky Stone\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Bulky §7reforge when",
+    "§7combined with a §cMelee Weapon§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 25§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "BULKY_STONE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Bulky_Stone"
+  ]
+}

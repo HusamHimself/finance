@@ -1,0 +1,14 @@
+{
+  "breakingPower": 8,
+  "blockStrength": 500,
+  "name": "Sulphur Ore",
+  "baseDrop": "SULPHUR_ORE",
+  "blocks189": [
+    {
+      "itemId": "minecraft:sponge",
+      "onlyIn": [
+        "crimson_isle"
+      ]
+    }
+  ]
+}

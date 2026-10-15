@@ -1,0 +1,23 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Soul Fish §b§lDIAMOND",
+  "nbttag": "{ExtraAttributes:{id:\"SOUL_FISH_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/fishing/trophy/lava/soul_fish_diamond\",display:{Lore:[0:\"§7Found in the §5Stronghold§7.\",1:\"\",2:\"§7Bring this to §fOdger §7at the top of the\",3:\"§6Blazing Volcano§7.\",4:\"\",5:\"§8§l* §8Soulbound §8§l*\",6:\"§5§lEPIC TROPHY\"],Name:\"§5Soul Fish §b§lDIAMOND\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Found in the §5Stronghold§7.",
+    "",
+    "§7Bring this to §fOdger §7at the top of the",
+    "§6Blazing Volcano§7.",
+    "",
+    "§8§l* §8Soulbound §8§l*",
+    "§5§lEPIC TROPHY"
+  ],
+  "internalname": "SOUL_FISH_DIAMOND",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.1.2+gc49a27a6",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Soul_Fish"
+  ]
+}

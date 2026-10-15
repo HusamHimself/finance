@@ -1,0 +1,10 @@
+{
+  "entity": "Drowned",
+  "entitytype": "minecraft:drowned",
+  "modifiers": [
+    {
+      "type": "age",
+      "baby": "true"
+    }
+  ]
+}

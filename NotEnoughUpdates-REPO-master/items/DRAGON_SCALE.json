@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Dragon Scale",
+  "nbttag": "{ExtraAttributes:{id:\"DRAGON_SCALE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/dragon_scale\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Spiked §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oSome people say it is harder than\",7:\"§8§odiamond. Hard to tell, really.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §c Health\",12:\" §a Defense\",13:\" §c Strength\",14:\" §9 Crit Chance\",15:\" §9 Crit Damage\",16:\" §e Attack Speed\",17:\" §b Intelligence\",18:\" §f Speed\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 20§c.\",23:\"\",24:\"§9§lRARE REFORGE STONE\"],Name:\"§9Dragon Scale\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Spiked §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oSome people say it is harder than",
+    "§8§odiamond. Hard to tell, really.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §a Defense",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    " §e Attack Speed",
+    " §b Intelligence",
+    " §f Speed",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 20§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "DRAGON_SCALE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Dragon_Scale"
+  ]
+}

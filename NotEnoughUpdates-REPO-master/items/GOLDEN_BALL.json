@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Golden Ball",
+  "nbttag": "{ExtraAttributes:{id:\"GOLDEN_BALL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/golden_ball\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Bountiful §7reforge when\",4:\"§7combined with a §aFarming Tool§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Farming Fortune\",9:\" §f Speed\",10:\"\",11:\"§9Bountiful Bonus\",12:\"§7Earn §6+0.2 Coins §7every time you\",13:\"§7harvest a §aCrop§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 30§c.\",18:\"\",19:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Golden Ball\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Bountiful §7reforge when",
+    "§7combined with a §aFarming Tool§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Farming Fortune",
+    " §f Speed",
+    "",
+    "§9Bountiful Bonus",
+    "§7Earn §6+0.2 Coins §7every time you",
+    "§7harvest a §aCrop§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 30§c.",
+    "",
+    "§6§lLEGENDARY REFORGE STONE"
+  ],
+  "internalname": "GOLDEN_BALL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Golden_Ball"
+  ]
+}

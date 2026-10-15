@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Beady Eyes",
+  "nbttag": "{ExtraAttributes:{id:\"BEADY_EYES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/beady_eyes\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Beady §7reforge when\",4:\"§7combined with a §aVacuum§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Damage\",9:\" §b Intelligence\",10:\"\",11:\"§9Beady Bonus\",12:\"§7Grants §6+100 Farming Fortune\",13:\"§7towards §2 Pests§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 15§c.\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Beady Eyes\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Beady §7reforge when",
+    "§7combined with a §aVacuum§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Damage",
+    " §b Intelligence",
+    "",
+    "§9Beady Bonus",
+    "§7Grants §6+100 Farming Fortune",
+    "§7towards §2 Pests§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 15§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "BEADY_EYES",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Beady_Eyes"
+  ]
+}

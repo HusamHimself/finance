@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Mantid Claw",
+  "nbttag": "{ExtraAttributes:{id:\"MANTID_CLAW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/mantid_claw\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Mantid §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §2 Bonus Pest Chance\",9:\" §6 Farming Fortune\",10:\"\",11:\"§9Mantid Bonus\",12:\"§7Grants §2+0.25 Bonus Pest Chance\",13:\"§7per §2 Pest §7killed for §a10 minutes§7.\",14:\"§7Caps at §25 Bonus Pest Chance§7.\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 22§c.\",19:\"\",20:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Mantid Claw\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Mantid §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §2 Bonus Pest Chance",
+    " §6 Farming Fortune",
+    "",
+    "§9Mantid Bonus",
+    "§7Grants §2+0.25 Bonus Pest Chance",
+    "§7per §2 Pest §7killed for §a10 minutes§7.",
+    "§7Caps at §25 Bonus Pest Chance§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 22§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "MANTID_CLAW",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Mantid_Claw"
+  ]
+}

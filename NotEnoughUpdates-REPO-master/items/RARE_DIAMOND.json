@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Rare Diamond",
+  "nbttag": "{ExtraAttributes:{id:\"RARE_DIAMOND\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/rare_diamond\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Reinforced §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §a Defense\",9:\"\",10:\"§eRight-click to view rarity scaling!\",11:\"\",12:\"§4❣ §cRequires §aMining Skill 8§c.\",13:\"\",14:\"§9§lRARE REFORGE STONE\"],Name:\"§9Rare Diamond\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Reinforced §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §a Defense",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 8§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "RARE_DIAMOND",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Rare_Diamond"
+  ]
+}

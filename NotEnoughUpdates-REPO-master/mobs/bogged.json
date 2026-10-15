@@ -1,0 +1,10 @@
+{
+  "entity": "Bogged",
+  "entitytype": "minecraft:bogged",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "hand": "BOW"
+    }
+  ] 
+}

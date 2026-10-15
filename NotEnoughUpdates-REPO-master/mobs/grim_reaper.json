@@ -1,0 +1,12 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/grim_reaper.png",
+      "parts": true,
+      "hand": "IRON_HOE"
+    }
+  ]
+}

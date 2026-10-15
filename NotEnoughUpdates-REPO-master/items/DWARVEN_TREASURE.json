@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aDwarven Treasure",
+  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_TREASURE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/dwarven_treasure\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Royal §7reforge when\",4:\"§7combined with §9Equipment§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Mining Speed\",9:\" §6 Mining Fortune\",10:\"\",11:\"§9Royal Bonus\",12:\"§7Earn §2+15% ᠅ Mithril Powder §7from\",13:\"§bMining Events §7in the §2Dwarven Mines§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 14§c.\",18:\"\",19:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aDwarven Treasure\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Royal §7reforge when",
+    "§7combined with §9Equipment§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Speed",
+    " §6 Mining Fortune",
+    "",
+    "§9Royal Bonus",
+    "§7Earn §2+15% ᠅ Mithril Powder §7from",
+    "§bMining Events §7in the §2Dwarven Mines§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 14§c.",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "DWARVEN_TREASURE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Treasure"
+  ]
+}

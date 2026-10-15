@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Frozen Bauble",
+  "nbttag": "{ExtraAttributes:{id:\"FROZEN_BAUBLE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/frozen_bauble\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Festive §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §b Intelligence\",9:\" §b Fishing Speed\",10:\" §3 Sea Creature Chance\",11:\"\",12:\"§eRight-click to view rarity scaling!\",13:\"\",14:\"§4❣ §cRequires §aMining Skill 20§c.\",15:\"\",16:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Frozen Bauble\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Festive §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §b Intelligence",
+    " §b Fishing Speed",
+    " §3 Sea Creature Chance",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 20§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "FROZEN_BAUBLE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Frozen_Bauble"
+  ]
+}

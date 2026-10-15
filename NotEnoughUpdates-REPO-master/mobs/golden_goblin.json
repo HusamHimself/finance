@@ -1,0 +1,18 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/golden_goblin.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "helmet": "GOLD_HELMET",
+      "chestplate": "GOLD_CHESTPLATE",
+      "leggings": "GOLD_LEGGINGS",
+      "feet": "GOLD_BOOTS"
+    }
+  ]
+}

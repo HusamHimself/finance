@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Dwarven Handwarmers",
+  "nbttag": "{ExtraAttributes:{id:\"DWARVEN_HANDWARMERS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/glacite/uncategorized/dwarven_handwarmers\",display:{Lore:[0:\"§7Mining Speed: §6+45\",1:\"§7Mining Fortune: §6+30\",2:\"§7Cold Resistance: §b+5\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§4❣ §cRequires §5Heart of the Mountain Tier 8§c.\",8:\"§5§lEPIC GLOVES\"],Name:\"§5Dwarven Handwarmers\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Mining Speed: §6+45",
+    "§7Mining Fortune: §6+30",
+    "§7Cold Resistance: §b+5",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §5Heart of the Mountain Tier 8§c.",
+    "§5§lEPIC GLOVES"
+  ],
+  "internalname": "DWARVEN_HANDWARMERS",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 8",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Dwarven_Handwarmers"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "FLAWLESS_JADE_GEM:1.0",
+        "UMBER_PLATE:1.0",
+        "FLAWLESS_AMBER_GEM:1.0",
+        "TUNGSTEN_PLATE:1.0"
+      ],
+      "count": 1,
+      "duration": 14400,
+      "overrideOutputId": "DWARVEN_HANDWARMERS"
+    }
+  ]
+}

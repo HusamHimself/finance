@@ -1,0 +1,16 @@
+{
+  "entity": "Chicken",
+  "entitytype": "minecraft:chicken",
+  "modifiers": [
+    {
+      "type": "riding",
+      "entity": "Pigman",
+      "modifiers": [
+        {
+          "type": "age",
+          "baby": "true"
+        }
+      ]
+    }
+  ]
+}

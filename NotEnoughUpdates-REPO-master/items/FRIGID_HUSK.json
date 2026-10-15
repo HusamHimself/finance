@@ -1,0 +1,51 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Frigid Husk",
+  "nbttag": "{ExtraAttributes:{id:\"FRIGID_HUSK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/frigid_husk\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Glacial §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§8§oSpread like a sickness through the\",7:\"§8§otunnels, sucking the life from\",8:\"§8§oeverything it covered.\",9:\"\",10:\"§7Grants the following stats that scale\",11:\"§7with the item's rarity:\",12:\" §6 Mining Fortune\",13:\"\",14:\"§9Glacial Bonus\",15:\"§7Grants §6+2 Mining Fortune §7for\",16:\"§7every §b1❄ Cold §7you have.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 30§c.\",21:\"\",22:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Frigid Husk\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Glacial §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§8§oSpread like a sickness through the",
+    "§8§otunnels, sucking the life from",
+    "§8§oeverything it covered.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Fortune",
+    "",
+    "§9Glacial Bonus",
+    "§7Grants §6+2 Mining Fortune §7for",
+    "§7every §b1❄ Cold §7you have.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 30§c.",
+    "",
+    "§6§lLEGENDARY REFORGE STONE"
+  ],
+  "internalname": "FRIGID_HUSK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Glacite V & HotM 7",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Frigid_Husk"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "FLAWLESS_ONYX_GEM:1.0",
+        "GLACITE_AMALGAMATION:4.0"
+      ],
+      "count": 1.0,
+      "overrideOutputId": "FRIGID_HUSK",
+      "duration": 21600
+    }
+  ]
+}

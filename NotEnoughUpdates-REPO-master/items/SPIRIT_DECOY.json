@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Spirit Stone",
+  "nbttag": "{ExtraAttributes:{id:\"SPIRIT_DECOY\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/spirit_decoy\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Spiritual §7reforge when\",4:\"§7combined with a §cBow§7.\",5:\"\",6:\"§8§oAs light as a feather, and you can\",7:\"§8§oalmost see through it. Some people\",8:\"§8§osay looking at it for too long can\",9:\"§8§ochange your personality.\",10:\"\",11:\"§7Grants the following stats that scale\",12:\"§7with the item's rarity:\",13:\" §c Strength\",14:\" §9 Crit Chance\",15:\" §9 Crit Damage\",16:\"\",17:\"§9Spiritual Bonus\",18:\"§7Killing an enemy has a §a10% §7chance to\",19:\"§7spawn a Spirit Decoy while in \",20:\"§cDungeons§7.\",21:\"\",22:\"§eRight-click to view rarity scaling!\",23:\"\",24:\"§4❣ §cRequires §aMining Skill 24§c.\",25:\"\",26:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Spirit Stone\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Spiritual §7reforge when",
+    "§7combined with a §cBow§7.",
+    "",
+    "§8§oAs light as a feather, and you can",
+    "§8§oalmost see through it. Some people",
+    "§8§osay looking at it for too long can",
+    "§8§ochange your personality.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    "",
+    "§9Spiritual Bonus",
+    "§7Killing an enemy has a §a10% §7chance to",
+    "§7spawn a Spirit Decoy while in ",
+    "§cDungeons§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "SPIRIT_DECOY",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Spirit_Stone"
+  ]
+}

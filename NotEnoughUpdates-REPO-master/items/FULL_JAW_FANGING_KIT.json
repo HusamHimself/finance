@@ -1,0 +1,56 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Full-Jaw Fanging Kit",
+  "nbttag": "{ExtraAttributes:{id:\"FULL_JAW_FANGING_KIT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/full_jaw_fanging_kit\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Fanged §7reforge when\",4:\"§7combined with a §cMelee Weapon§7.\",5:\"\",6:\"§8§oFangs! Very menacing.\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §c Strength\",11:\" §9 Crit Chance\",12:\" §e Attack Speed\",13:\" §4 Vitality\",14:\"\",15:\"§9Fanged Bonus\",16:\"§7Every §c7th §7melee hit on a mob deals\",17:\"§c+100%  Damage§7.\",18:\"\",19:\"§eRight-click to view rarity scaling!\",20:\"\",21:\"§4❣ §cRequires §aMining Skill 13§c.\",22:\"\",23:\"§9§lRARE REFORGE STONE\"],Name:\"§9Full-Jaw Fanging Kit\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Fanged §7reforge when",
+    "§7combined with a §cMelee Weapon§7.",
+    "",
+    "§8§oFangs! Very menacing.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §e Attack Speed",
+    " §4 Vitality",
+    "",
+    "§9Fanged Bonus",
+    "§7Every §c7th §7melee hit on a mob deals",
+    "§c+100%  Damage§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 13§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "FULL_JAW_FANGING_KIT",
+  "clickcommand": "",
+  "crafttext": "Requires: Hemovibe VII",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Full-Jaw_Fanging_Kit"
+  ],
+  "recipes": [
+    {
+      "A1": "HEMOGLASS:16",
+      "A2": "",
+      "A3": "HEMOGLASS:16",
+      "B1": "ENCHANTED_REDSTONE_BLOCK:1",
+      "B2": "ENCHANTED_REDSTONE_BLOCK:1",
+      "B3": "ENCHANTED_REDSTONE_BLOCK:1",
+      "C1": "ENCHANTED_BONE_BLOCK:1",
+      "C2": "ENCHANTED_BONE_BLOCK:1",
+      "C3": "ENCHANTED_BONE_BLOCK:1",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "FULL_JAW_FANGING_KIT"
+    }
+  ]
+}

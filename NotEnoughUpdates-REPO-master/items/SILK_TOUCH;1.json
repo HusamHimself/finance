@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§fEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{silk_touch:1},id:\"SILK_TOUCH;1\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Silk Touch I\",3:\"§7Allows you to collect normally\",4:\"§7unobtainable block drops.\",5:\"\",6:\"§6Source:\",7:\" §7- Enchantment Table (§aI§7)\",8:\"\",9:\"§6Applied To:\",10:\" §7- §fTools\",11:\"\",12:\"§6Conflicts:\",13:\" §7- §cFortune\",14:\" §7- §cSmelting Touch\",15:\"\",16:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Silk Touch I",
+    "§7Allows you to collect normally",
+    "§7unobtainable block drops.",
+    "",
+    "§6Source:",
+    " §7- Enchantment Table (§aI§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fTools",
+    "",
+    "§6Conflicts:",
+    " §7- §cFortune",
+    " §7- §cSmelting Touch",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "SILK_TOUCH;1",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Silk_Touch"
+  ]
+}

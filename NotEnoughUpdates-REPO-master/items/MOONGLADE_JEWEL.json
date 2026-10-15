@@ -1,0 +1,32 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Moonglade Jewel",
+  "nbttag": "{ExtraAttributes:{id:\"MOONGLADE_JEWEL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/moonglade_jewel\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Moonglade §7reforge when\",4:\"§7combined with an §2Axe§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Foraging Fortune\",9:\" §3☯ Foraging Wisdom\",10:\"\",11:\"§eRight-click to view rarity scaling!\",12:\"\",13:\"§4❣ §cRequires §aMining Skill 12§c.\",14:\"\",15:\"§9§lRARE REFORGE STONE\"],Name:\"§9Moonglade Jewel\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Moonglade §7reforge when",
+    "§7combined with an §2Axe§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Foraging Fortune",
+    " §3☯ Foraging Wisdom",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 12§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "MOONGLADE_JEWEL",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Moonglade_Jewel"
+  ]
+}

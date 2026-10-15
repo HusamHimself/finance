@@ -1,0 +1,50 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Petrified Starfall",
+  "nbttag": "{ExtraAttributes:{id:\"PETRIFIED_STARFALL\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/petrified_starfall\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Stellar §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§8§oIt's not actually a star.\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §6 Mining Speed\",11:\" §6 Mining Fortune\",12:\"\",13:\"§9Stellar Bonus\",14:\"§7Earn §2+20% ᠅ Mithril Powder §7and\",15:\"§6+75 Mining Fortune §7when mining\",16:\"§7near §5 Fallen Stars§7.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 26§c.\",21:\"\",22:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Petrified Starfall\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Stellar §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§8§oIt's not actually a star.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Speed",
+    " §6 Mining Fortune",
+    "",
+    "§9Stellar Bonus",
+    "§7Earn §2+20% ᠅ Mithril Powder §7and",
+    "§6+75 Mining Fortune §7when mining",
+    "§7near §5 Fallen Stars§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 26§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "PETRIFIED_STARFALL",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 3",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Petrified_Starfall"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "STARFALL:512"
+      ],
+      "count": 1,
+      "overrideOutputId": "PETRIFIED_STARFALL",
+      "duration": 21600
+    }
+  ]
+}

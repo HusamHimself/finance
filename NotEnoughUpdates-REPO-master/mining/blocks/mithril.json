@@ -1,0 +1,55 @@
+{
+  "//": "TODO: this is one mithril ore json for all of them. some of them having different strengths, so they could be split up into multiple files",
+  "breakingPower": 4,
+  "blockStrength": 800,
+  "name": "Mithril Ore",
+  "baseDrop": "MITHRIL_ORE",
+  "blocks189": [
+    {
+      "itemId": "minecraft:light_blue_wool",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:gray_wool",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:prismarine",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:prismarine_bricks",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:dark_prismarine",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:cyan_terracotta",
+      "onlyIn": [
+        "mining_3",
+        "mineshaft"
+      ]
+    }
+  ]
+}

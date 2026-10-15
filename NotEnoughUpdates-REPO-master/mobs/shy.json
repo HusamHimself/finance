@@ -1,0 +1,14 @@
+{
+    "entity": "ArmorStand",
+    "entitytype": "minecraft:armor_stand",
+    "modifiers": [
+        {
+            "type": "equipment",
+            "helmet": "SHY_MONSTER"
+        },
+        {
+            "type": "invisible",
+            "invisible": true
+        }
+    ]
+}

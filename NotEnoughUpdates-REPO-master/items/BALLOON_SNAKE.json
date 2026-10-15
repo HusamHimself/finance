@@ -1,0 +1,26 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Balloon Snake",
+  "nbttag": "{ExtraAttributes:{id:\"BALLOON_SNAKE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/balloon_snake\",display:{Lore:[0:\"§7Health: §c+10\",1:\"§7Intelligence: §b+10\",2:\"\",3:\"§7Grants §bJump Boost II §7while equipped.\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires The Catacombs Floor I Completion.\",9:\"§9§lRARE DUNGEON NECKLACE\"],Name:\"§9Balloon Snake\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+10",
+    "§7Intelligence: §b+10",
+    "",
+    "§7Grants §bJump Boost II §7while equipped.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires The Catacombs Floor I Completion.",
+    "§9§lRARE DUNGEON NECKLACE"
+  ],
+  "internalname": "BALLOON_SNAKE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Balloon_Snake"
+  ]
+}

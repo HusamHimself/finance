@@ -1,0 +1,21 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Disinfestor Gloves",
+  "nbttag": "{ExtraAttributes:{id:\"DISINFESTOR_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/rift/equipment/t1/disinfestor_gloves\",display:{Lore:[0:\"§7Rift Time: §a+30s\",1:\"\",2:\"§eRight-click to equip!\",3:\"\",4:\"§9§lRARE GLOVES\"],Name:\"§9Disinfestor Gloves\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Rift Time: §a+30s",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§9§lRARE GLOVES"
+  ],
+  "internalname": "DISINFESTOR_GLOVES",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Disinfestor_Gloves"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Beating Heart",
+  "nbttag": "{ExtraAttributes:{id:\"BEATING_HEART\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/power_stones/beating_heart\",display:{Lore:[0:\"§7Combine §ax9 §7of this item at the\",1:\"§6Thaumaturgist §7in the §bHub §7to unlock the\",2:\"§aBloody §7power.\",3:\"\",4:\"§7At §6250 Accessory Power§7:\",5:\"§c+104.13 Strength\",6:\"§9+104.13 Crit Damage\",7:\"§b+34.71 Intelligence\",8:\"\",9:\"§7Unique Power Bonus:\",10:\"§e+10 Attack Speed\",11:\"\",12:\"§4❣ §cRequires §aCombat Skill 20§c.\",13:\"\",14:\"§9§lRARE POWER STONE\"],Name:\"§9Beating Heart\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Combine §ax9 §7of this item at the",
+    "§6Thaumaturgist §7in the §bHub §7to unlock the",
+    "§aBloody §7power.",
+    "",
+    "§7At §6250 Accessory Power§7:",
+    "§c+104.13 Strength",
+    "§9+104.13 Crit Damage",
+    "§b+34.71 Intelligence",
+    "",
+    "§7Unique Power Bonus:",
+    "§e+10 Attack Speed",
+    "",
+    "§4❣ §cRequires §aCombat Skill 20§c.",
+    "",
+    "§9§lRARE POWER STONE"
+  ],
+  "internalname": "BEATING_HEART",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Beating_Heart"
+  ]
+}

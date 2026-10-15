@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Jaderald",
+  "nbttag": "{ExtraAttributes:{id:\"JADERALD\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/jaderald\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Jaded §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§8§oExtremely rare stone, only found in\",7:\"§8§othe Crystal Hollows.\",8:\"\",9:\"§7Grants the following stats that scale\",10:\"§7with the item's rarity:\",11:\" §6 Mining Speed\",12:\" §6 Mining Fortune\",13:\"\",14:\"§eRight-click to view rarity scaling!\",15:\"\",16:\"§4❣ §cRequires §aMining Skill 30§c.\",17:\"\",18:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Jaderald\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Jaded §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§8§oExtremely rare stone, only found in",
+    "§8§othe Crystal Hollows.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Speed",
+    " §6 Mining Fortune",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 30§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "JADERALD",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Jaderald"
+  ]
+}

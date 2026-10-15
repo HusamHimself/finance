@@ -1,0 +1,22 @@
+{
+  "breakingPower": 9,
+  "blockStrength": 5200,
+  "name": "Peridot Gemstone",
+  "baseDrop": "ROUGH_PERIDOT_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:green_stained_glass",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:green_stained_glass_pane",
+      "onlyIn": [
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "breakingPower": 8,
+  "blockStrength": 3800,
+  "name": "Topaz Gemstone",
+  "baseDrop": "ROUGH_TOPAZ_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:yellow_stained_glass",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    },
+    {
+      "itemId": "minecraft:yellow_stained_glass_pane",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft",
+        "mining_3"
+      ]
+    }
+  ]
+}

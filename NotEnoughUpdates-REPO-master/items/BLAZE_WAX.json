@@ -1,0 +1,48 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Blaze Wax",
+  "nbttag": "{ExtraAttributes:{id:\"BLAZE_WAX\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/blaze_wax\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Waxed §7reforge when\",4:\"§7combined with §9Equipment§7.\",5:\"\",6:\"§8§oUsed by some Master Blacksmiths to\",7:\"§8§oinfuse equipments with an immense\",8:\"§8§opower. It's also a great replacement\",9:\"§8§ofor butter.\",10:\"\",11:\"§7Grants the following stats that scale\",12:\"§7with the item's rarity:\",13:\" §c Health\",14:\" §9 Crit Chance\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 24§c.\",19:\"\",20:\"§9§lRARE REFORGE STONE\"],Name:\"§9Blaze Wax\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Waxed §7reforge when",
+    "§7combined with §9Equipment§7.",
+    "",
+    "§8§oUsed by some Master Blacksmiths to",
+    "§8§oinfuse equipments with an immense",
+    "§8§opower. It's also a great replacement",
+    "§8§ofor butter.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Health",
+    " §9 Crit Chance",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 24§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "BLAZE_WAX",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Blaze Rod VI",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Blaze_Wax"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_BLAZE_POWDER:10",
+    "A2": "ENCHANTED_BLAZE_POWDER:10",
+    "A3": "ENCHANTED_BLAZE_POWDER:10",
+    "B1": "ENCHANTED_BLAZE_POWDER:10",
+    "B2": "BEZOS:10",
+    "B3": "ENCHANTED_BLAZE_POWDER:10",
+    "C1": "ENCHANTED_BLAZE_POWDER:10",
+    "C2": "ENCHANTED_BLAZE_POWDER:10",
+    "C3": "ENCHANTED_BLAZE_POWDER:10"
+  }
+}

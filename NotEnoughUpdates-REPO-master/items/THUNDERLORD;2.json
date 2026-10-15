@@ -1,0 +1,42 @@
+{
+  "itemid": "minecraft:enchanted_book",
+  "displayname": "§fEnchanted Book",
+  "nbttag": "{ExtraAttributes:{enchantments:{thunderlord:2},id:\"THUNDERLORD;2\"},HideFlags:254,ItemModel:\"minecraft:enchanted_book\",display:{Lore:[0:\"§8Combinable in Anvil\",1:\"\",2:\"§9Thunderlord II\",3:\"§7Every §c3 §7hits on a monster,\",4:\"§7strike §elightning§7, dealing\",5:\"§a16% §7of the hit's damage.\",6:\"\",7:\"§6Sources:\",8:\" §7- Enchantment Table (§aI-V§7)\",9:\" §7- Experiments (§aVI§7)\",10:\" §7- Catacombs (§aVI-VII§7)\",11:\" §7- Bazaar (§aVI-VII§7)\",12:\"\",13:\"§6Applied To:\",14:\" §7- §fSword\",15:\" §7- §fLongsword\",16:\" §7- §fGauntlet\",17:\"\",18:\"§6Requirements:\",19:\" §7- §bEnchanting Level 14\",20:\"\",21:\"§6Conflicts:\",22:\" §7- §cThunderbolt\",23:\"\",24:\"§f§lCOMMON\"],Name:\"§fEnchanted Book\"},ench:[]}",
+  "damage": 0,
+  "lore": [
+    "§8Combinable in Anvil",
+    "",
+    "§9Thunderlord II",
+    "§7Every §c3 §7hits on a monster,",
+    "§7strike §elightning§7, dealing",
+    "§a16% §7of the hit's damage.",
+    "",
+    "§6Sources:",
+    " §7- Enchantment Table (§aI-V§7)",
+    " §7- Experiments (§aVI§7)",
+    " §7- Catacombs (§aVI-VII§7)",
+    " §7- Bazaar (§aVI-VII§7)",
+    "",
+    "§6Applied To:",
+    " §7- §fSword",
+    " §7- §fLongsword",
+    " §7- §fGauntlet",
+    "",
+    "§6Requirements:",
+    " §7- §bEnchanting Level 14",
+    "",
+    "§6Conflicts:",
+    " §7- §cThunderbolt",
+    "",
+    "§f§lCOMMON"
+  ],
+  "internalname": "THUNDERLORD;2",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 3.4.0-dev+mc1.21.5+g4cd6602",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Thunderlord"
+  ],
+  "parent": "THUNDERLORD;4"
+}

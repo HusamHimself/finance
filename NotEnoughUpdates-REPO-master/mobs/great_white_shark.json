@@ -1,0 +1,11 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/great_white_shark.png",
+      "parts": true
+    }
+  ]
+}

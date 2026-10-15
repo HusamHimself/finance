@@ -1,0 +1,39 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Ghast Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"GHAST_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/ghast_cloak\",display:{Lore:[0:\"§7Health: §c+7\",1:\"§7Defense: §a+7\",2:\"\",3:\"§6Ability: Blazing Restoration \",4:\"§7Restores §c+5 Health §7every second\",5:\"§7while worn.\",6:\"\",7:\"§eRight-click to equip!\",8:\"\",9:\"§8This item can be reforged!\",10:\"§4❣ §cRequires §aCombat Skill 22§c.\",11:\"§9§lRARE CLOAK\"],Name:\"§9Ghast Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+7",
+    "§7Defense: §a+7",
+    "",
+    "§6Ability: Blazing Restoration ",
+    "§7Restores §c+5 Health §7every second",
+    "§7while worn.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§9§lRARE CLOAK"
+  ],
+  "internalname": "GHAST_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Ghast_Cloak"
+  ],
+  "recipe": {
+    "A1": "ENCHANTED_GHAST_TEAR:32",
+    "A2": "TENTACLE_MEAT:10",
+    "A3": "ENCHANTED_GHAST_TEAR:32",
+    "B1": "ENCHANTED_GHAST_TEAR:32",
+    "B2": "",
+    "B3": "ENCHANTED_GHAST_TEAR:32",
+    "C1": "ENCHANTED_GHAST_TEAR:32",
+    "C2": "",
+    "C3": "ENCHANTED_GHAST_TEAR:32"
+  }
+}

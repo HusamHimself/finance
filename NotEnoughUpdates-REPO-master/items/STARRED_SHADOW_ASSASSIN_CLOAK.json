@@ -1,0 +1,40 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6 Shadow Assassin Cloak",
+  "nbttag": "{ExtraAttributes:{id:\"STARRED_SHADOW_ASSASSIN_CLOAK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/shadow_assassin_cloak_fragged\",display:{Lore:[0:\"§7Strength: §c+25\",1:\"§7Speed: §f+5\",2:\"\",3:\"§6Piece Bonus: Bloodrush\",4:\"§7On teleport: Your next melee hit\",5:\"§7within §a5s §7deals §c10% §7more damage.\",6:\"§8Cooldown: §a3s\",7:\"\",8:\"§eRight-click to equip!\",9:\"\",10:\"§8This item can be reforged!\",11:\"§4❣ §cRequires The Catacombs Floor V Completion.\",12:\"§6§lLEGENDARY DUNGEON CLOAK\"],Name:\"§6 Shadow Assassin Cloak\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Strength: §c+25",
+    "§7Speed: §f+5",
+    "",
+    "§6Piece Bonus: Bloodrush",
+    "§7On teleport: Your next melee hit",
+    "§7within §a5s §7deals §c10% §7more damage.",
+    "§8Cooldown: §a3s",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires The Catacombs Floor V Completion.",
+    "§6§lLEGENDARY DUNGEON CLOAK"
+  ],
+  "internalname": "STARRED_SHADOW_ASSASSIN_CLOAK",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shadow_Assassin_Cloak"
+  ],
+  "recipe": {
+    "A1": "LIVID_FRAGMENT:1",
+    "A2": "LIVID_FRAGMENT:1",
+    "A3": "LIVID_FRAGMENT:1",
+    "B1": "LIVID_FRAGMENT:1",
+    "B2": "SHADOW_ASSASSIN_CLOAK:1",
+    "B3": "LIVID_FRAGMENT:1",
+    "C1": "LIVID_FRAGMENT:1",
+    "C2": "LIVID_FRAGMENT:1",
+    "C3": "LIVID_FRAGMENT:1"
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Manticore Claw",
+  "nbttag": "{ExtraAttributes:{id:\"MANTICORE_CLAW\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/community_center/mayor/diana/manticore_claw\",display:{Lore:[0:\"§7Strength: §c+20\",1:\"§7Crit Damage: §9+10%\",2:\"§7Attack Speed: §e+2.5%\",3:\"§7Ferocity: §c+4\",4:\"\",5:\"§6Ability: Chimeric Core \",6:\"§7Copies §a10% §7of your active pet's\",7:\"§cCombat §7stats.\",8:\"\",9:\"§eRight-click to equip!\",10:\"\",11:\"§8This item can be reforged!\",12:\"§6§lLEGENDARY GLOVES\"],Name:\"§6Manticore Claw\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Strength: §c+20",
+    "§7Crit Damage: §9+10%",
+    "§7Attack Speed: §e+2.5%",
+    "§7Ferocity: §c+4",
+    "",
+    "§6Ability: Chimeric Core ",
+    "§7Copies §a10% §7of your active pet's",
+    "§cCombat §7stats.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§6§lLEGENDARY GLOVES"
+  ],
+  "internalname": "MANTICORE_CLAW",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Manticore_Claw"
+  ],
+  "recipes": [
+    {
+      "A1": "ENCHANTED_ANCIENT_CLAW:64",
+      "A2": "",
+      "A3": "ENCHANTED_ANCIENT_CLAW:64",
+      "B1": "ENCHANTED_ANCIENT_CLAW:64",
+      "B2": "MANTI_CORE:1",
+      "B3": "ENCHANTED_ANCIENT_CLAW:64",
+      "C1": "ENCHANTED_GOLD_BLOCK:32",
+      "C2": "ENCHANTED_ANCIENT_CLAW:64",
+      "C3": "ENCHANTED_GOLD_BLOCK:32",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MANTICORE_CLAW"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Optical Lens",
+  "nbttag": "{ExtraAttributes:{id:\"OPTICAL_LENS\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/optical_lens\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Precise §7reforge when\",4:\"§7combined with a §cBow§7.\",5:\"\",6:\"§8§oThis vicious material can sometimes\",7:\"§8§obe found on the floor of The\",8:\"§8§oCatacombs.\",9:\"\",10:\"§7Grants the following stats that scale\",11:\"§7with the item's rarity:\",12:\" §c Strength\",13:\" §9 Crit Chance\",14:\" §9 Crit Damage\",15:\"\",16:\"§9Precise Bonus\",17:\"§7Deal §c+10%  Damage §7when hitting a\",18:\"§7mob's head.\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 22§c.\",23:\"\",24:\"§9§lRARE REFORGE STONE\"],Name:\"§9Optical Lens\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Precise §7reforge when",
+    "§7combined with a §cBow§7.",
+    "",
+    "§8§oThis vicious material can sometimes",
+    "§8§obe found on the floor of The",
+    "§8§oCatacombs.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    "",
+    "§9Precise Bonus",
+    "§7Deal §c+10%  Damage §7when hitting a",
+    "§7mob's head.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 22§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "OPTICAL_LENS",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Optical_Lens"
+  ]
+}

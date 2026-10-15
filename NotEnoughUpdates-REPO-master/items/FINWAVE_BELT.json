@@ -1,0 +1,35 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Finwave Belt",
+  "nbttag": "{ExtraAttributes:{id:\"FINWAVE_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/crimson_isle/fishing_equipment/finwave_belt\",display:{Lore:[0:\"§7Health: §c+18\",1:\"§7Health Regen: §c+1\",2:\"§7Fishing Speed: §b+10\",3:\"\",4:\"§eRight-click to equip!\",5:\"\",6:\"§8This item can be reforged!\",7:\"§5§lEPIC BELT\"],Name:\"§5Finwave Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Health: §c+18",
+    "§7Health Regen: §c+1",
+    "§7Fishing Speed: §b+10",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§5§lEPIC BELT"
+  ],
+  "internalname": "FINWAVE_BELT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Finwave_Belt"
+  ],
+  "recipe": {
+    "A1": "",
+    "A2": "",
+    "A3": "",
+    "B1": "TIGER_SHARK_TOOTH:6",
+    "B2": "",
+    "B3": "TIGER_SHARK_TOOTH:6",
+    "C1": "GREAT_WHITE_TOOTH_MEAL:1",
+    "C2": "ICHTHYIC_BELT:1",
+    "C3": "GREAT_WHITE_TOOTH_MEAL:1"
+  }
+}

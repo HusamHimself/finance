@@ -1,0 +1,15 @@
+{
+  "breakingPower": 3,
+  "blockStrength": 600,
+  "name": "Pure Redstone",
+  "baseDrop": "REDSTONE",
+  "blocks189": [
+    {
+      "itemId": "minecraft:redstone_block",
+      "onlyIn": [
+        "mining_3",
+        "crystal_hollows"
+      ]
+    }
+  ]
+}

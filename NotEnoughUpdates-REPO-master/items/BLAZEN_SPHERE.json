@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Blazen Sphere",
+  "nbttag": "{ExtraAttributes:{id:\"BLAZEN_SPHERE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/blazen_sphere\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Blazing §7reforge when\",4:\"§7combined with §9Equipment§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §6 Mining Fortune\",9:\" §c Heat Resistance\",10:\"\",11:\"§9Blazing Bonus\",12:\"§7For every §c1♨ Heat§7, you are §a0.05%\",13:\"§7more likely to find §6Worms§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§4❣ §cRequires §aMining Skill 27§c.\",18:\"\",19:\"§9§lRARE REFORGE STONE\"],Name:\"§9Blazen Sphere\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Blazing §7reforge when",
+    "§7combined with §9Equipment§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §6 Mining Fortune",
+    " §c Heat Resistance",
+    "",
+    "§9Blazing Bonus",
+    "§7For every §c1♨ Heat§7, you are §a0.05%",
+    "§7more likely to find §6Worms§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 27§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "BLAZEN_SPHERE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Blazen_Sphere"
+  ]
+}

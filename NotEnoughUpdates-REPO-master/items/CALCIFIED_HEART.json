@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Calcified Heart",
+  "nbttag": "{ExtraAttributes:{id:\"CALCIFIED_HEART\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/calcified_heart\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Calcified §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §a Defense\",9:\" §b Fishing Speed\",10:\"\",11:\"§9Calcified Bonus\",12:\"§7Grants §a+25 Defense §7towards §3Sea\",13:\"§3Creatures§7.\",14:\"\",15:\"§eRight-click to view rarity scaling!\",16:\"\",17:\"§8§oA cold and hardened heart that was\",18:\"§8§oonce brimming with eager love.\",19:\"\",20:\"§9§lRARE REFORGE STONE\"],Name:\"§9Calcified Heart\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Calcified §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §a Defense",
+    " §b Fishing Speed",
+    "",
+    "§9Calcified Bonus",
+    "§7Grants §a+25 Defense §7towards §3Sea",
+    "§3Creatures§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§8§oA cold and hardened heart that was",
+    "§8§oonce brimming with eager love.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "CALCIFIED_HEART",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Calcified_Heart"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "entity": "Zombie",
+  "entitytype": "minecraft:zombie",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "hand": "WOOD_SWORD",
+      "helmet": "MINOS_HUNTER_MONSTER",
+      "chestplate": "LEATHER_CHESTPLATE#ff0a0a",
+      "leggings": "LEATHER_LEGGINGS#ff0a0a",
+      "feet": "LEATHER_BOOTS#304b4e"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "entity": "Player",
+  "entitytype": "minecraft:player",
+  "modifiers": [
+    {
+      "type": "playerdata",
+      "skin": "neurepo:mobs/star_sentry.png",
+      "parts": true
+    },
+    {
+      "type": "equipment",
+      "hand": "DIAMOND_SWORD"
+    }
+  ]
+}

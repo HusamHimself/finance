@@ -1,0 +1,36 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§aOverflowing Trash Can",
+  "nbttag": "{ExtraAttributes:{id:\"OVERFLOWING_TRASH_CAN\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/overflowing_trash_can\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Trashy §7reforge when\",4:\"§7combined with a §bFishing Rod§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §b Fishing Speed\",9:\" §3 Sea Creature Chance\",10:\"\",11:\"§9Trashy Bonus\",12:\"§7Grants §6+1 Treasure Chance §7while\",13:\"§7in the  §2Backwater Bayou§7.\",14:\"\",15:\"§4❣ §cRequires §aMining Skill 3§c.\",16:\"\",17:\"§eRight-click to view rarity scaling!\",18:\"\",19:\"§a§lUNCOMMON REFORGE STONE\"],Name:\"§aOverflowing Trash Can\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Trashy §7reforge when",
+    "§7combined with a §bFishing Rod§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §b Fishing Speed",
+    " §3 Sea Creature Chance",
+    "",
+    "§9Trashy Bonus",
+    "§7Grants §6+1 Treasure Chance §7while",
+    "§7in the  §2Backwater Bayou§7.",
+    "",
+    "§4❣ §cRequires §aMining Skill 3§c.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§a§lUNCOMMON REFORGE STONE"
+  ],
+  "internalname": "OVERFLOWING_TRASH_CAN",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Overflowing_Trash_Can"
+  ]
+}

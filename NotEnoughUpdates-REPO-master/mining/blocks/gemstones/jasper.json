@@ -1,0 +1,22 @@
+{
+  "breakingPower": 9,
+  "blockStrength": 4800,
+  "name": "Jasper Gemstone",
+  "baseDrop": "ROUGH_JASPER_GEM",
+  "blocks189": [
+    {
+      "itemId": "minecraft:magenta_stained_glass",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    },
+    {
+      "itemId": "minecraft:magenta_stained_glass_pane",
+      "onlyIn": [
+        "crystal_hollows",
+        "mineshaft"
+      ]
+    }
+  ]
+}

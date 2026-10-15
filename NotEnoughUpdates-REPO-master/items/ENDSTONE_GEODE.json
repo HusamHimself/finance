@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9End Stone Geode",
+  "nbttag": "{ExtraAttributes:{id:\"ENDSTONE_GEODE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/endstone_geode\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Hyper §7reforge when\",4:\"§7combined with §cArmor§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Strength\",9:\" §e Attack Speed\",10:\" §f Speed\",11:\"\",12:\"§9Hyper Bonus\",13:\"§7Grants §f+5 Speed §7for §a5s §7after\",14:\"§7using a §6Transmission §7ability.\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 14§c.\",19:\"\",20:\"§9§lRARE REFORGE STONE\"],Name:\"§9End Stone Geode\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Hyper §7reforge when",
+    "§7combined with §cArmor§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §e Attack Speed",
+    " §f Speed",
+    "",
+    "§9Hyper Bonus",
+    "§7Grants §f+5 Speed §7for §a5s §7after",
+    "§7using a §6Transmission §7ability.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 14§c.",
+    "",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "ENDSTONE_GEODE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/End_Stone_Geode"
+  ]
+}

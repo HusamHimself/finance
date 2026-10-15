@@ -1,0 +1,33 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Soulweaver Gloves",
+  "nbttag": "{ExtraAttributes:{id:\"SOULWEAVER_GLOVES\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/dungeons/soulweaver_gloves\",display:{Lore:[0:\"§7Strength: §c+10\",1:\"§7Crit Damage: §9+10%\",2:\"\",3:\"§7While in §cThe Catacombs§7, summon a\",4:\"§cHaunted Skull §7that slowly revolves\",5:\"§7around you every §a15 §7seconds or\",6:\"§7when you kill a mob with melee damage.\",7:\"\",8:\"§7When an enemy is hit by a §cHaunted\",9:\"§cSkull§7, they are stunned for §b2\",10:\"§7seconds and deal §c5% §7less damage.\",11:\"\",12:\"§eRight-click to equip!\",13:\"\",14:\"§8This item can be reforged!\",15:\"§4❣ §cRequires The Catacombs Floor VI Completion.\",16:\"§5§lEPIC DUNGEON GLOVES\"],Name:\"§5Soulweaver Gloves\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Strength: §c+10",
+    "§7Crit Damage: §9+10%",
+    "",
+    "§7While in §cThe Catacombs§7, summon a",
+    "§cHaunted Skull §7that slowly revolves",
+    "§7around you every §a15 §7seconds or",
+    "§7when you kill a mob with melee damage.",
+    "",
+    "§7When an enemy is hit by a §cHaunted",
+    "§cSkull§7, they are stunned for §b2",
+    "§7seconds and deal §c5% §7less damage.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires The Catacombs Floor VI Completion.",
+    "§5§lEPIC DUNGEON GLOVES"
+  ],
+  "internalname": "SOULWEAVER_GLOVES",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Soulweaver_Gloves"
+  ]
+}

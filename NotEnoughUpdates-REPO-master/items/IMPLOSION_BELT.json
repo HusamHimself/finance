@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Implosion Belt",
+  "nbttag": "{ExtraAttributes:{id:\"IMPLOSION_BELT\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/uncategorized/implosion_belt\",display:{Lore:[0:\"§7Defense: §a+70\",1:\"\",2:\"§6Ability: Consolidated \",3:\"§7Increases all explosion damage dealt by §a25%§7.\",4:\"\",5:\"§eRight-click to equip!\",6:\"\",7:\"§8This item can be reforged!\",8:\"§4❣ §cRequires §aCombat Skill 22§c.\",9:\"§5§lEPIC BELT\"],Name:\"§5Implosion Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Defense: §a+70",
+    "",
+    "§6Ability: Consolidated ",
+    "§7Increases all explosion damage dealt by §a25%§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aCombat Skill 22§c.",
+    "§5§lEPIC BELT"
+  ],
+  "internalname": "IMPLOSION_BELT",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: Sulphur IX",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Implosion_Belt"
+  ],
+  "recipe": {
+    "A1": "MATCH_STICKS:32",
+    "A2": "ENCHANTED_SULPHUR_CUBE:1",
+    "A3": "MATCH_STICKS:32",
+    "B1": "ENCHANTED_SULPHUR_CUBE:1",
+    "B2": "",
+    "B3": "ENCHANTED_SULPHUR_CUBE:1",
+    "C1": "MATCH_STICKS:32",
+    "C2": "ENCHANTED_SULPHUR_CUBE:1",
+    "C3": "MATCH_STICKS:32"
+  }
+}

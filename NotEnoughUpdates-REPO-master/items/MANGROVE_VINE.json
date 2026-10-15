@@ -1,0 +1,43 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Moonglade Belt",
+  "nbttag": "{ExtraAttributes:{id:\"MANGROVE_VINE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/island_relevant/foraging_2/equipment/mangrove/mangrove_vine\",display:{Lore:[0:\"§7Sweep: §2+1\",1:\"§7Foraging Fortune: §6+5\",2:\"\",3:\"§7Grants §a+5% §7more points towards\",4:\"§dStarlyn Contests§7.\",5:\"\",6:\"§eRight-click to equip!\",7:\"\",8:\"§8This item can be reforged!\",9:\"§4❣ §cRequires §aForaging Skill 12§c.\",10:\"§9§lRARE BELT\"],Name:\"§9Moonglade Belt\"}}",
+  "damage": 0,
+  "lore": [
+    "§7Sweep: §2+1",
+    "§7Foraging Fortune: §6+5",
+    "",
+    "§7Grants §a+5% §7more points towards",
+    "§dStarlyn Contests§7.",
+    "",
+    "§eRight-click to equip!",
+    "",
+    "§8This item can be reforged!",
+    "§4❣ §cRequires §aForaging Skill 12§c.",
+    "§9§lRARE BELT"
+  ],
+  "internalname": "MANGROVE_VINE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.3.0-dev+mc26.2+g8dd91b6e",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Moonglade_Belt"
+  ],
+  "recipes": [
+    {
+      "A1": "STRETCHING_STICKS:16",
+      "A2": "ENCHANTED_MANGROVE_LOG:16",
+      "A3": "STRETCHING_STICKS:16",
+      "B1": "ENCHANTED_MANGROVE_LOG:16",
+      "B2": "ENCHANTED_SEA_LUMIES:1",
+      "B3": "ENCHANTED_MANGROVE_LOG:16",
+      "C1": "STRETCHING_STICKS:16",
+      "C2": "ENCHANTED_MANGROVE_LOG:16",
+      "C3": "STRETCHING_STICKS:16",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "MANGROVE_VINE"
+    }
+  ]
+}

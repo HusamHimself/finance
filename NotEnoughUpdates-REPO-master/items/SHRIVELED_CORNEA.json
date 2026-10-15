@@ -1,0 +1,57 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§6Shriveled Cornea",
+  "nbttag": "{ExtraAttributes:{id:\"SHRIVELED_CORNEA\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/shriveled_cornea\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Bloodshot §7reforge when\",4:\"§7combined with a §9Belt§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §c Strength\",9:\" §9 Crit Chance\",10:\" §9 Crit Damage\",11:\"\",12:\"§9Bloodshot Bonus\",13:\"§7When killing an enemy, you have a\",14:\"§a2.5%§7 chance to cocoon them!\",15:\"§7Cocooned enemies will quickly hatch,\",16:\"§7and can be killed again.\",17:\"§8(Cannot trigger in Dungeons, Kuudra,\",18:\"§8or on Bosses).\",19:\"\",20:\"§eRight-click to view rarity scaling!\",21:\"\",22:\"§4❣ §cRequires §aMining Skill 26§c.\",23:\"\",24:\"§6§lLEGENDARY REFORGE STONE\"],Name:\"§6Shriveled Cornea\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Bloodshot §7reforge when",
+    "§7combined with a §9Belt§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Strength",
+    " §9 Crit Chance",
+    " §9 Crit Damage",
+    "",
+    "§9Bloodshot Bonus",
+    "§7When killing an enemy, you have a",
+    "§a2.5%§7 chance to cocoon them!",
+    "§7Cocooned enemies will quickly hatch,",
+    "§7and can be killed again.",
+    "§8(Cannot trigger in Dungeons, Kuudra,",
+    "§8or on Bosses).",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 26§c.",
+    "",
+    "§6§lLEGENDARY REFORGE STONE"
+  ],
+  "internalname": "SHRIVELED_CORNEA",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Shriveled_Cornea"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "SHRIVELED_WASP:1",
+      "A3": "",
+      "B1": "SHRIVELED_WASP:1",
+      "B2": "ENCHANTED_EYE_OF_ENDER:64",
+      "B3": "SHRIVELED_WASP:1",
+      "C1": "",
+      "C2": "SHRIVELED_WASP:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "SHRIVELED_CORNEA"
+    }
+  ]
+}

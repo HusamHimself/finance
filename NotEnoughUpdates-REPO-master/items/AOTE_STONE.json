@@ -1,0 +1,37 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Warped Stone",
+  "nbttag": "{ExtraAttributes:{id:\"AOTE_STONE\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/aote_stone\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Warped §7reforge when\",4:\"§7combined with §9Aspect of the End§7 and\",5:\"§5Aspect of the Void§7.\",6:\"\",7:\"§8§oIf you look deep inside, you risk\",8:\"§8§ofinding yourself somewhere else.\",9:\"\",10:\"§7Grants the following stats that scale\",11:\"§7with the item's rarity:\",12:\" §c Damage\",13:\" §c Strength\",14:\" §b Intelligence\",15:\"\",16:\"§eRight-click to view rarity scaling!\",17:\"\",18:\"§4❣ §cRequires §aMining Skill 26§c.\",19:\"\",20:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Warped Stone\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Warped §7reforge when",
+    "§7combined with §9Aspect of the End§7 and",
+    "§5Aspect of the Void§7.",
+    "",
+    "§8§oIf you look deep inside, you risk",
+    "§8§ofinding yourself somewhere else.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §c Damage",
+    " §c Strength",
+    " §b Intelligence",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 26§c.",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "AOTE_STONE",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Warped_Stone"
+  ]
+}

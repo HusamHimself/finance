@@ -1,0 +1,10 @@
+{
+  "entity": "Stray",
+  "entitytype": "minecraft:stray",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "hand": "STONE_SWORD"
+    }
+  ] 
+}

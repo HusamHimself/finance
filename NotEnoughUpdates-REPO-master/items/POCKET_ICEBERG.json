@@ -1,0 +1,49 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§9Pocket Iceberg",
+  "nbttag": "{ExtraAttributes:{id:\"POCKET_ICEBERG\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/pocket_iceberg\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Scraped §7reforge when\",4:\"§7combined with a §6Mining Tool§7.\",5:\"\",6:\"§8§oWoah, woah, too many drops!\",7:\"\",8:\"§7Grants the following stats that scale\",9:\"§7with the item's rarity:\",10:\" §2 Breaking Power\",11:\" §3☯ Mining Wisdom\",12:\"\",13:\"§9Scraped Bonus\",14:\"§7If the block you are mining has the\",15:\"§7same §2 Breaking Power §7as this item,\",16:\"§6+25 Mining Fortune§7.\",17:\"\",18:\"§eRight-click to view rarity scaling!\",19:\"\",20:\"§4❣ §cRequires §aMining Skill 25§c.\",21:\"§9§lRARE REFORGE STONE\"],Name:\"§9Pocket Iceberg\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Scraped §7reforge when",
+    "§7combined with a §6Mining Tool§7.",
+    "",
+    "§8§oWoah, woah, too many drops!",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §2 Breaking Power",
+    " §3☯ Mining Wisdom",
+    "",
+    "§9Scraped Bonus",
+    "§7If the block you are mining has the",
+    "§7same §2 Breaking Power §7as this item,",
+    "§6+25 Mining Fortune§7.",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§4❣ §cRequires §aMining Skill 25§c.",
+    "§9§lRARE REFORGE STONE"
+  ],
+  "internalname": "POCKET_ICEBERG",
+  "clickcommand": "viewrecipe",
+  "crafttext": "Requires: HotM 2",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Pocket_Iceberg"
+  ],
+  "recipes": [
+    {
+      "type": "forge",
+      "inputs": [
+        "GLACITE_JEWEL:5.0"
+      ],
+      "count": 1.0,
+      "overrideOutputId": "POCKET_ICEBERG",
+      "duration": 21600
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "entity": "Enderman",
+  "entitytype": "minecraft:enderman",
+  "modifiers": [
+    {
+      "type": "equipment",
+      "hand": "ENDER_CHEST"
+    }
+  ]
+}

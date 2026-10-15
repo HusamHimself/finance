@@ -1,0 +1,46 @@
+{
+  "itemid": "minecraft:paper",
+  "displayname": "§5Overpriced Drink",
+  "nbttag": "{ExtraAttributes:{id:\"OVERPRICED_DRINK\"},HideFlags:254,ItemModel:\"hypixel_skyblock:item/reforge_stones/overpriced_drink\",display:{Lore:[0:\"§8Reforge Stone\",1:\"§8Combinable in Anvil\",2:\"\",3:\"§7Applies the §9Overpriced §7reforge when\",4:\"§7combined with a §aFarming Tool§7.\",5:\"\",6:\"§7Grants the following stats that scale\",7:\"§7with the item's rarity:\",8:\" §e Overbloom\",9:\" §6 Farming Fortune\",10:\"\",11:\"§eRight-click to view rarity scaling!\",12:\"\",13:\"§5§lEPIC REFORGE STONE\"],Name:\"§5Overpriced Drink\"}}",
+  "damage": 0,
+  "lore": [
+    "§8Reforge Stone",
+    "§8Combinable in Anvil",
+    "",
+    "§7Applies the §9Overpriced §7reforge when",
+    "§7combined with a §aFarming Tool§7.",
+    "",
+    "§7Grants the following stats that scale",
+    "§7with the item's rarity:",
+    " §e Overbloom",
+    " §6 Farming Fortune",
+    "",
+    "§eRight-click to view rarity scaling!",
+    "",
+    "§5§lEPIC REFORGE STONE"
+  ],
+  "internalname": "OVERPRICED_DRINK",
+  "clickcommand": "",
+  "crafttext": "",
+  "modver": "Firmament 44.2.0-dev+mc26.2+gd594e7fb",
+  "infoType": "WIKI_URL",
+  "info": [
+    "https://hypixelskyblock.minecraft.wiki/w/Overpriced_Drink"
+  ],
+  "recipes": [
+    {
+      "A1": "",
+      "A2": "AGGOURDIAN:8",
+      "A3": "",
+      "B1": "",
+      "B2": "DESIGNER_COFFEE_BEANS:8",
+      "B3": "",
+      "C1": "",
+      "C2": "GLASS_BOTTLE:1",
+      "C3": "",
+      "type": "crafting",
+      "count": 1,
+      "overrideOutputId": "OVERPRICED_DRINK"
+    }
+  ]
+}

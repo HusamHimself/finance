@@ -68,6 +68,17 @@ def return_commerce_type(internal_name) -> str:
     """
     if internal_name in bazaarable:
         return 'bazaar'
+    if internal_name in auctioned:
+        return 'auction'
+    for item in ITEM_API['item']:
+        if item.get(internal_name)!= None:
+            if item.get('can_auction')!= None:
+                if item['get_auction'] == True:
+                    return 'auction'
+            if item.get('souldbound') != None:
+                return 'soulbound'
+    return 'None'
+        
 
 for file_path in dir_path.iterdir():
 

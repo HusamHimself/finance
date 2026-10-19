@@ -81,7 +81,7 @@ def return_commerce_type(internal_name) -> str:
         return 'bazaar'
     if internal_name in auctioned:
         return 'auction'
-    for item in ITEM_API['item']:
+    for item in ITEM_API['items']:
         if item.get('id') == internal_name:
             if item.get('can_auction')!= None:
                 if item['can_auction'] == True:
@@ -91,11 +91,12 @@ def return_commerce_type(internal_name) -> str:
     return 'None'
 
 def return_npc_sellable(internal_name):
-    for item in ITEM_API['item']:
+    for item in ITEM_API['items']:
             if item.get('id') == internal_name:
                 if item.get('npc_sell_price')!= None:
                     return item['npc_sell_price']
                 return 0
+    return 0
         
 
 for file_path in dir_path.iterdir():
@@ -103,6 +104,10 @@ for file_path in dir_path.iterdir():
     with open(file_path, "r")as f:
 
         current = json.load(f)
+        print(current)
+
+        if current.get("generator")!= None:
+                        continue
 
         #if current['internalname'] in bazaarable or current['internalname'] in auctioned:
         print(current['internalname'])

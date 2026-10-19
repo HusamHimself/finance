@@ -17,7 +17,7 @@ class Item:
     it can have a key that says if empty or not, so that will improve readability
     """
 
-    def __init__(self, commerce_type: str, internal_name: str, craft_parameters: dict, npc_sellable: bool):
+    def __init__(self, commerce_type: str, internal_name: str, craft_parameters: dict, npc_sellable: int):
         self.commerce_type = commerce_type
         """ 
         commerce_type:
@@ -26,7 +26,9 @@ class Item:
         self.internal_name = internal_name
         self.craft_parameters = craft_parameters
         self.npc_sellable = npc_sellable
-        self.npc_sell_price = None
+        """
+        if npc_sellable is 0 then Item is not npc-sellable
+        """
         self.latest_bazaar_price = None
 
     def Return_Dict(self):
@@ -35,7 +37,6 @@ class Item:
             'internal_name': self.internal_name,
             'craft_parameters': self.craft_parameters,
             'npc_sellable': self.npc_sellable,
-            'npc_sell_price': self.npc_sell_price
         }
 
 
@@ -48,7 +49,7 @@ def get_number_and_internal_name_for_NEU_item_DB(string):
         else:
             number = int(string[string.index(letter) + 1:])
 
-            return number, internal_name, 
+            return number, internal_name
 
 dir_path = Path("NotEnoughUpdates-REPO-master/items")
 
@@ -71,13 +72,20 @@ def return_commerce_type(internal_name) -> str:
     if internal_name in auctioned:
         return 'auction'
     for item in ITEM_API['item']:
-        if item.get(internal_name)!= None:
+        if item.get('id') == internal_name:
             if item.get('can_auction')!= None:
-                if item['get_auction'] == True:
+                if item['can_auction'] == True:
                     return 'auction'
-            if item.get('souldbound') != None:
+            if item.get('soulbound') != None:
                 return 'soulbound'
     return 'None'
+
+def return_npc_sellable(internal_name):
+    for item in ITEM_API['item']:
+            if item.get('id') == internal_name:
+                if item.get('npc_sell_price')!= None:
+                    return item['npc_sell_price']
+                return 0
         
 
 for file_path in dir_path.iterdir():
@@ -88,26 +96,27 @@ for file_path in dir_path.iterdir():
 
         #if current['internalname'] in bazaarable or current['internalname'] in auctioned:
         print(current['internalname'])
-
+        craft_parameters = {}
         if current.get("recipe") != None:
-            crafting_cost = {}
-            crafting_cost['count'] = 1
+            craft_parameters['count'] = 1
             for key, string in current["recipe"].items():
                 if key == "count":
-                    crafting_cost['count'] = int(string)
+                    craft_parameters['count'] = int(string)
                     continue
                 if string != "":
                     print(file_path)
                     amount, internal_name = get_number_and_internal_name_for_NEU_item_DB(string)
                     print(f'amount = {amount}\ninternal_name = {internal_name}')
-                    if crafting_cost.get(internal_name) is None:
-                        crafting_cost[internal_name] = amount
+                    if craft_parameters.get(internal_name) is None:
+                        craft_parameters[internal_name] = amount
                     else:
-                        crafting_cost[internal_name] += amount
+                        craft_parameters[internal_name] += amount
                     
-            print(crafting_cost)
+            print(craft_parameters)
 
-            Item()
+        commerce_type = return_commerce_type(current['internalname'])
+        npc_sell_price = return_npc_sellable(current['internalname'])
+        Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
 
 
 

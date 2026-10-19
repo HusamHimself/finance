@@ -9,6 +9,7 @@ import os
 import json
 import requests
 
+list_of_items = []
 
 class Item:
     """
@@ -31,14 +32,23 @@ class Item:
         """
         self.latest_bazaar_price = None
 
-    def Return_Dict(self):
+    def return_dict(self):
         data_to_return = {
             'commerce_type': self.commerce_type,
             'internal_name': self.internal_name,
             'craft_parameters': self.craft_parameters,
             'npc_sellable': self.npc_sellable,
         }
+        return data_to_return
 
+def save_item_array_json(arr: list):
+    final_arr = []
+    final = {}
+    for object in arr:
+        final_arr.append(object.return_dict())
+    final['objects'] = final_arr
+    with open('data/itemz.json', 'w')as f:
+        json.dump(final, f, indent=4)
 
 def get_number_and_internal_name_for_NEU_item_DB(string):
     internal_name = ""
@@ -116,7 +126,10 @@ for file_path in dir_path.iterdir():
 
         commerce_type = return_commerce_type(current['internalname'])
         npc_sell_price = return_npc_sellable(current['internalname'])
-        Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
+        x = Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
+
+        list_of_items.append(x)
+save_item_array_json(list_of_items)
         #there is also an npc buy price, sort it out, its in NEU I'm pretty sure.
 
 

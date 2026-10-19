@@ -117,6 +117,7 @@ for file_path in dir_path.iterdir():
         commerce_type = return_commerce_type(current['internalname'])
         npc_sell_price = return_npc_sellable(current['internalname'])
         Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
+        #there is also an npc buy price, sort it out, its in NEU I'm pretty sure.
 
 
 

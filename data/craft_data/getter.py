@@ -122,7 +122,7 @@ for file_path in dir_path.iterdir():
                     print(file_path)
                     amount, internal_name = get_number_and_internal_name_for_NEU_item_DB(string)
                     print(f'amount = {amount}\ninternal_name = {internal_name}')
-                    if craft_parameters.get(internal_name) is None:
+                    if craft_parameters.get(internal_name) == None:
                         craft_parameters[internal_name] = amount
                     else:
                         craft_parameters[internal_name] += amount

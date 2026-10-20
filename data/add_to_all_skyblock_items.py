@@ -9,5 +9,5 @@ dict_of_all_items = {}
 for i in ITEM_API['items']:
     dict_of_all_items[i['name']] = i['id']
 
-with open('all_name_vs_id', 'w')as f:
+with open('all_name_vs_id.json', 'w')as f:
     json.dump(dict_of_all_items, f, indent=2)

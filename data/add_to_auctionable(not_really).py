@@ -32,7 +32,7 @@ for i in range(0, total_pages_to_loop_over):
         z+=1
     time.sleep(0.5)
 
-with open('data/auctioned.json', 'w')as f:
+with open('auctioned.json', 'w')as f:
     json.dump({'internal_name': list(auctioned)}, f, indent=2)
 
 print(auctioned)

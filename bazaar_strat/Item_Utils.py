@@ -30,7 +30,7 @@ class Item:
         }
         return data_to_return
 
-def save_item_array(arr : list, filename='Item_Objects.json', prior_path='bazaar_start/data/') -> None:
+def save_item_array(arr : list, filename='Item_Objects.json', prior_path='data/') -> None:
     temp_arr = []
     for item in arr:
         temp_arr.append(item.return_dict())
@@ -39,7 +39,7 @@ def save_item_array(arr : list, filename='Item_Objects.json', prior_path='bazaar
     with open(prior_path + filename, 'w')as f:
         json.dump(temp_dict, f, indent=4)
 
-def return_item_array(filename='Item_Objects.json', prior_path='bazaar_strat/data/')-> list:
+def return_item_array(filename='Item_Objects.json', prior_path='data/')-> list:
     arr_to_return = []
     with open(prior_path + filename, 'r')as f:
         temp_dict = json.load(f)

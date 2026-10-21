@@ -19,7 +19,11 @@ class Item:
         """
         if npc_sellable is 0 then Item is not npc-sellable
         """
-        self.latest_bazaar_price = None
+        self.latest_bazaar_data = None
+        self.latest_bazaar_data : dict
+        """
+        In a sense that the bazaar data will be the raw data that hypixel sends about buy and sell orders.
+        """
 
     def return_dict(self):
         data_to_return = {

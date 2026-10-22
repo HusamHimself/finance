@@ -1,12 +1,12 @@
-from Item_Utils import Item
-import Item_Utils as Item_utils
+import Item_Utils
+import Order_Utils
 import time
 import requests
 import os
 
 BAZAAR_API = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
 
-item_array = Item_utils.return_item_array()
+item_array = Item_Utils.return_item_array()
 index_of_item_in_item_arr = {}
 
 n = 0
@@ -17,25 +17,21 @@ for item in item_array:
 
 # print(os.getcwd())
 
-def bazaar_craft_flips():
+def update_bazaar_data():
     for key, value in BAZAAR_API['products'].items():
         current_item = item_array[index_of_item_in_item_arr[key]]
-        current_item.latest_bazaar_data = value
-bazaar_craft_flips()
+        current_item.buy_summary = Order_Utils.return_order_array(value['buy_summary'])
+        current_item.sell_summary = Order_Utils.return_order_array(value['sell_summary'])
 
-print(item_array[index_of_item_in_item_arr['ENCHANTED_DIAMOND']].latest_bazaar_data)
-def update_bazaar_value():
-    for key, value in BAZAAR_API['products']:
-        current_item = item_array[index_of_item_in_item_arr[key]]
-        current_item.latest_bazaar_data = value
+update_bazaar_data()
+
+print(f'{item_array[index_of_item_in_item_arr['BOOSTER_COOKIE']].buy_summary[0].price_per_unit:,}')
 
 """
+we will have something with multithreading later for updating bazaar prices.
+but for now assemble the crafting system and compare prices. 
+"""
 
-There seem to be lots of stuff about daily volume of an item in general,
-the system idea currently in place seems to be wayy too vague, maybe it should be somethign that runs 24/7
-like for now we want to make a simple function that returns the items with the hugest gaps in making them and 
-getting them sold.
-after we figure that out maybe we can work on a mod solution that tries to do other things.
-
-for now I'll just build something that outputs the best craft flips (WITH TAXES CALCULATED).
+"""
+we will probably scrape data for the accurate crafting recipes
 """

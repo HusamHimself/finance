@@ -16,14 +16,14 @@ class Item:
         self.internal_name = internal_name
         self.craft_parameters = craft_parameters
         self.npc_sellable = npc_sellable
+
         """
-        if npc_sellable is 0 then Item is not npc-sellable
+        will be full of Order objects.
+        the priority will be determined by the index in the array.
         """
-        self.latest_bazaar_data = None
-        self.latest_bazaar_data : dict
-        """
-        In a sense that the bazaar data will be the raw data that hypixel sends about buy and sell orders.
-        """
+        self.buy_summary : list = None
+        self.sell_summary : list = None
+
 
     def return_dict(self):
         data_to_return = {

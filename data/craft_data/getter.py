@@ -10,6 +10,7 @@ import json
 import requests
 
 list_of_items = []
+BAZAAR_API = requests.get('https://api.hypixel.net/skyblock/bazaar').json()
 
 class Item:
     """
@@ -47,7 +48,7 @@ def save_item_array_json(arr: list):
     for object in arr:
         final_arr.append(object.return_dict())
     final['objects'] = final_arr
-    with open('data/itemz.json', 'w')as f:
+    with open('../itemz.json', 'w')as f:
         json.dump(final, f, indent=4)
 
 def get_number_and_internal_name_for_NEU_item_DB(string):
@@ -61,13 +62,13 @@ def get_number_and_internal_name_for_NEU_item_DB(string):
 
             return number, internal_name
 
-dir_path = Path("NotEnoughUpdates-REPO-master/items")
+dir_path = Path("../../NotEnoughUpdates-REPO-master\items")
 
-with open('data/bazaarable.json', 'r')as f:
+with open('../bazaarable.json', 'r')as f:
     i = json.load(f)
     bazaarable = i['internal_name']
 
-with open('data/auctioned.json')as f:
+with open('../auctioned.json')as f:
     i = json.load(f)
     auctioned = i['internal_name']
 
@@ -97,7 +98,8 @@ def return_npc_sellable(internal_name):
                     return item['npc_sell_price']
                 return 0
     return 0
-        
+
+total_names = []
 
 for file_path in dir_path.iterdir():
 
@@ -131,10 +133,11 @@ for file_path in dir_path.iterdir():
 
         commerce_type = return_commerce_type(current['internalname'])
         npc_sell_price = return_npc_sellable(current['internalname'])
+        total_names.append(current['internalname'])
         x = Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
 
         list_of_items.append(x)
-save_item_array_json(list_of_items)
+
         #there is also an npc buy price, sort it out, its in NEU I'm pretty sure.
 
 
@@ -145,3 +148,11 @@ save_item_array_json(list_of_items)
 
 # if 'Z' in bazaarable:
 #     print(bazaarable.index('Z'))
+
+
+for name, stuff in BAZAAR_API['products'].items():
+    if name not in total_names:
+        x = Item('bazaar', name, None, 0)
+
+
+save_item_array_json(list_of_items)

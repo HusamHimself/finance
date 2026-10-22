@@ -18,6 +18,9 @@ for item in item_array:
 print(os.getcwd())
 
 def bazaar_craft_flips():
-    for key, value in BAZAAR_API['products']:
+    for key, value in BAZAAR_API['products'].items():
         current_item = item_array[index_of_item_in_item_arr[key]]
         current_item.latest_bazaar_data = value
+bazaar_craft_flips()
+
+print(item_array[index_of_item_in_item_arr['ENCHANTED_DIAMOND']].latest_bazaar_data)

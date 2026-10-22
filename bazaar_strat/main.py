@@ -15,7 +15,7 @@ for item in item_array:
     index_of_item_in_item_arr[item.internal_name] = n
     n += 1
 
-print(os.getcwd())
+# print(os.getcwd())
 
 def bazaar_craft_flips():
     for key, value in BAZAAR_API['products'].items():

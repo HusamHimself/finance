@@ -152,7 +152,8 @@ for file_path in dir_path.iterdir():
 
 for name, stuff in BAZAAR_API['products'].items():
     if name not in total_names:
-        x = Item('bazaar', name, None, 0)
+        x = Item('bazaar', name, {}, 0)
+        list_of_items.append(x)
 
 
 save_item_array_json(list_of_items)

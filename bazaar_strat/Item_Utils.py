@@ -7,7 +7,7 @@ class Item:
     it can have a key that says if empty or not, so that will improve readability
     """
 
-    def __init__(self, commerce_type: str, internal_name: str, craft_parameters: dict, npc_sellable: int):
+    def __init__(self, commerce_type: str, internal_name: str, craft_parameters, npc_sellable: int):
         self.commerce_type = commerce_type
         """ 
         commerce_type:
@@ -15,6 +15,9 @@ class Item:
         """
         self.internal_name = internal_name
         self.craft_parameters = craft_parameters
+        """
+        craft parameters can either be arrays for multiple crafting recipes or a lil dictionary 
+        """
         self.npc_sellable = npc_sellable
 
         """
@@ -33,6 +36,9 @@ class Item:
             'npc_sellable': self.npc_sellable,
         }
         return data_to_return
+
+    def __str__(self):
+        return f'Item({self.commerce_type}, {self.internal_name}, {self.craft_parameters}, {self.npc_sellable})'
 
 def save_item_array(arr : list, filename='Item_Objects.json', prior_path='data/') -> None:
     temp_arr = []

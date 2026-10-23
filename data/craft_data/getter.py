@@ -62,6 +62,8 @@ def get_number_and_internal_name_for_NEU_item_DB(string):
 
             return number, internal_name
 
+    return 1, string
+
 dir_path = Path("../../NotEnoughUpdates-REPO-master\items")
 
 with open('../bazaarable.json', 'r')as f:
@@ -99,6 +101,17 @@ def return_npc_sellable(internal_name):
                 return 0
     return 0
 
+def throw(arr):
+    black_list = ["name", "level", "coins", "xp", "render", "panorama", "extra", "inputs", "result"]
+    if len(arr) == 0:
+        return True
+    for item in arr:
+        if type(item) == dict:
+            for key, value in item.items():
+                if key in black_list:
+                    return True
+    return False
+
 total_names = []
 
 for file_path in dir_path.iterdir():
@@ -114,6 +127,7 @@ for file_path in dir_path.iterdir():
         #if current['internalname'] in bazaarable or current['internalname'] in auctioned:
         print(current['internalname'])
         craft_parameters = {}
+        craft_arr = []
         if current.get("recipe") != None:
             craft_parameters['count'] = 1
             for key, string in current["recipe"].items():
@@ -128,13 +142,37 @@ for file_path in dir_path.iterdir():
                         craft_parameters[internal_name] = amount
                     else:
                         craft_parameters[internal_name] += amount
-                    
-            print(craft_parameters)
+
+        elif current.get('recipes')!= None and current.get('x') == None:
+            if throw(current['recipes']) == True:
+                continue
+            craft_arr = []
+            for item in current['recipes']:
+                craft_parameters = {}
+                craft_parameters['count'] = 1
+                for key, value in item.items():
+                    print(key, "  =  ",value)
+                    if key in ['type', 'overrideOutputId', 'supercraftable']:
+                        continue
+                    if key == 'count':
+                        craft_parameters['count'] = int(value)
+                        continue
+                    if value != "" or value != '':
+                        amount, internal_name = get_number_and_internal_name_for_NEU_item_DB(value)
+                        if craft_parameters.get(internal_name) == None:
+                            craft_parameters[internal_name] = amount
+                        else:
+                            craft_parameters[internal_name] += amount
+                craft_arr.append(craft_parameters)
+
 
         commerce_type = return_commerce_type(current['internalname'])
         npc_sell_price = return_npc_sellable(current['internalname'])
         total_names.append(current['internalname'])
-        x = Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
+        if len(craft_arr) == 0:
+            x = Item(commerce_type, current['internalname'], craft_parameters, npc_sell_price)
+        else:
+            x = Item(commerce_type, current['internalname'], craft_arr, npc_sell_price)
 
         list_of_items.append(x)
 

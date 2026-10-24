@@ -24,24 +24,28 @@ def return_bazaar_array()-> list:
             final.append(item)
     return final
 
-def update_bazaar_data():
+def update_bazaar_data()-> None:
     for key, value in BAZAAR_API['products'].items():
         current_item = item_array[index_of_item_in_item_arr[key]]
         current_item.buy_summary = Order_Utils.return_order_array(value['buy_summary'])
         current_item.sell_summary = Order_Utils.return_order_array(value['sell_summary'])
 
+def return_item(name) -> Item_Utils.Item:
+    return item_array[index_of_item_in_item_arr[name]]
+
 update_bazaar_data()
 
-print(f'{item_array[index_of_item_in_item_arr['BOOSTER_COOKIE']].buy_summary[0].price_per_unit:,}')
-
 bz_arr = return_bazaar_array()
-for item in bz_arr:
-    if len(item.buy_summary) > 0:
-        print(f'{item.internal_name} = {item.buy_summary[0].price_per_unit:,}')
-    else:
-        print(item.internal_name)
 
-print(item_array[index_of_item_in_item_arr['ENCHANTED_DIAMOND']])
+for item in bz_arr:
+    if item.priority_sell_order() < item.priority_buy_order():
+        print(item)
+        print(f'highest buy order: {item.priority_buy_order()}')
+        print(f'lowest sell order: {item.priority_sell_order()}')
+        print('WOAHHHHHHHHHHHHHHHHH')
+        break
+
+# return_item['ENCHANTMENT_GROWTH_5'].
 
 """
 we will have something with multithreading later for updating bazaar prices.

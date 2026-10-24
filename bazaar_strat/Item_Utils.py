@@ -27,6 +27,8 @@ class Item:
         self.buy_summary : list = None
         self.sell_summary : list = None
 
+    def __str__(self):
+            return f'Item({self.commerce_type}, {self.internal_name}, {self.craft_parameters}, {self.npc_sellable})'
 
     def return_dict(self):
         data_to_return = {
@@ -37,9 +39,23 @@ class Item:
         }
         return data_to_return
 
-    def __str__(self):
-        return f'Item({self.commerce_type}, {self.internal_name}, {self.craft_parameters}, {self.npc_sellable})'
+    def priority_buy_order(self) -> int | float:
+        if self.commerce_type != 'bazaar':
+            raise TypeError("Item commerce type must be bazaar for using 'priority_buy_order' method.")
+        try:
+            return self.sell_summary[0].price_per_unit
+            
+        except IndexError:
+            return -999999999999999999
 
+    def priority_sell_order(self) -> int | float:
+        if self.commerce_type != 'bazaar':
+            raise TypeError("Item commerce type must be bazaar for using 'priority_sell_order' method.")
+        try:
+            return self.buy_summary[0].price_per_unit
+        except IndexError:
+            return 999999999999999999
+    
 def save_item_array(arr : list, filename='Item_Objects.json', prior_path='data/') -> None:
     temp_arr = []
     for item in arr:

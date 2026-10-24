@@ -39,7 +39,7 @@ class Item:
         }
         return data_to_return
 
-    def priority_buy_order(self) -> int | float:
+    def biggest_buy_order(self) -> int | float:
         if self.commerce_type != 'bazaar':
             raise TypeError("Item commerce type must be bazaar for using 'priority_buy_order' method.")
         try:
@@ -48,7 +48,7 @@ class Item:
         except IndexError:
             return -999999999999999999
 
-    def priority_sell_order(self) -> int | float:
+    def smallest_sell_order(self) -> int | float:
         if self.commerce_type != 'bazaar':
             raise TypeError("Item commerce type must be bazaar for using 'priority_sell_order' method.")
         try:

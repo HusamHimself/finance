@@ -37,21 +37,24 @@ update_bazaar_data()
 
 bz_arr = return_bazaar_array()
 
-for item in bz_arr:
-    if item.priority_sell_order() < item.priority_buy_order():
-        print(item)
-        print(f'highest buy order: {item.priority_buy_order()}')
-        print(f'lowest sell order: {item.priority_sell_order()}')
-        print('WOAHHHHHHHHHHHHHHHHH')
-        break
+# for item in bz_arr:
+#     if item.smallest_sell_order() < item.biggest_buy_order():
+#         print(item)
+#         print(f'highest buy order: {item.priority_buy_order()}')
+#         print(f'lowest sell order: {item.priority_sell_order()}')
+#         print('WOAHHHHHHHHHHHHHHHHH')
+#         break
 
 # return_item['ENCHANTMENT_GROWTH_5'].
 
 """
-we will have something with multithreading later for updating bazaar prices.
-but for now assemble the crafting system and compare prices. 
-"""
-
-"""
-we will probably scrape data for the accurate crafting recipes
+TODO 
+Come up with a way to collect accurate crafting data for each item from the game's /recipe(item) function.
+Map items and their prices together.(
+Current item database and class especially the crafting attribute isn't reliable enough,
+I suggest we make our own better reliable tailored and clean database from the skills we get from getting data directly from the game.)
+Come up with a fast and reliable way to grab auction data from hypixel.
+Check mapped prices on the bazaar and potentially the auction house.(
+understand tax is a thing for both the BZ and AH.)
+Return best profitd as a feature.
 """
